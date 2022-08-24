@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+    <data>
+
+        <record id="stps.municipality_tree" model="ir.ui.view">
+            <field name="name">Municipios</field>
+            <field name="model">stps.municipality</field>
+            <field name="arch" type="xml">
+                <tree string="Municipios">
+                    <field name="municipality_number" />
+                    <field name="code" />
+                    <field name="code_state" />
+                    <field name="name" />
+                </tree>
+            </field>
+        </record>
+
+        <record id="stps.municipality_form" model="ir.ui.view">
+            <field name="name">stps.municipality.form</field>
+            <field name="model">stps.municipality</field>
+            <field name="arch" type="xml">
+                <form string="Municipios">
+                    <header></header>
+                    <sheet>
+                        <h1>
+                            <field name="municipality_number" />
+                        </h1>
+                        <group>
+
+                            <field name="code" />
+                            <field name="code_state" />
+                            <field name="name" />
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+
+        <record id="stps.municipality_action" model="ir.actions.act_window">
+            <field name="name">Municipios</field>
+            <field name="res_model">stps.municipality</field>
+
+            <field name="view_mode">tree,form</field>
+        </record>
+
+        <record id="sequence_municipality" model="ir.sequence">
+            <field name="name">Municipality Number</field>
+            <field name="code">stps.municipality</field>
+            <field name="prefix">M/%(range_year)s/</field>
+            <field eval="1" name="number_next" />
+            <field eval="1" name="number_increment" />
+            <field eval="True" name="use_date_range" />
+            <field eval="False" name="company_id" />
+            <field name="padding">10</field>
+        </record>
+
+        <record id="stps.municipality_search" model="ir.ui.view">
+            <field name="name">Filters Municipality</field>
+            <field name="model">stps.municipality</field>
+            <field name="arch" type="xml">
+                <search string="Filtros Municipio">
+                    <field name="code" />
+                    <field name="code_state" />
+                    <field name="name" />
+                </search>
+            </field>
+        </record>
+
+    </data>
+</odoo>

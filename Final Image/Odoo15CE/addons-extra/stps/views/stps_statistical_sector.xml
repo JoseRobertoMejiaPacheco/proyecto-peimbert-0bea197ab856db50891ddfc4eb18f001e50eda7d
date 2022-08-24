@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+    <data>
+        <record id="stps.statistical_sector_tree" model="ir.ui.view">
+            <field name="name">stps.statistical_sector.tree</field>
+            <field name="model">stps.statistical_sector</field>
+            <field name="arch" type="xml">
+                <tree string="Datos Estadísticos de Sector">
+                    <field name="statistical_sector_number" />
+                    <field name="year" />
+                    <field name="month" />
+                    <field name="salary" />
+                    <field name="age" />
+                    <field name="gender" />
+                    <field name="sector_id"/>
+                    <field name="state_id" />
+                    <field name="municipality_id" />
+                    <field name="_id"/>
+                </tree>
+            </field>
+        </record>
+
+        <record id="stps.statistical_sector_form" model="ir.ui.view">
+            <field name="name">Datos Estadísticos de Sector</field>
+            <field name="model">stps.statistical_sector</field>
+            <field name="arch" type="xml">
+                <form string="Datos Estadísticos de Sector">
+                    <header></header>
+                    <sheet>
+                        <h1>
+                            <field name="statistical_sector_number" />
+                        </h1>
+                        <group>
+                            <field name="year" />
+                            <field name="month" />
+                            <field name="salary" />
+                            <field name="age" />
+                            <field name="gender" />
+                            <field name="sector_id"/>
+                            <field name="state_id" />
+                            <field name="municipality_id" />
+                            <field name="_id"/>
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+
+        <record id="stps.statistical_sector_action" model="ir.actions.act_window">
+            <field name="name">Datos Estadísticos de Sector</field>
+            <field name="res_model">stps.statistical_sector</field>
+            <field name="view_mode">tree,form</field>
+        </record>
+
+        <record id="sequence_statistical_sector" model="ir.sequence">
+            <field name="name">Labor Sector Statistics Number</field>
+            <field name="code">stps.statistical_sector</field>
+            <field name="prefix">LSSN/%(range_year)s/</field>
+            <field eval="1" name="number_next" />
+            <field eval="1" name="number_increment" />
+            <field eval="True" name="use_date_range" />
+            <field eval="False" name="company_id" />
+            <field name="padding">10</field>
+        </record>
+
+        <record id="stps.statistical_sector_search" model="ir.ui.view">
+            <field name="name">Filters Statical Sector</field>
+            <field name="model">stps.statistical_sector</field>
+            <field name="arch" type="xml">
+                <search string="Filtros Estadíatica de Sector">
+                    <field name="year" />
+                    <field name="month" />
+                    <field name="salary" />
+                    <field name="age" />
+                    <field name="gender" />
+                    <field name="sector_id"/>
+                    <field name="state_id" />
+                    <field name="municipality_id" />
+                </search>
+            </field>
+        </record>
+    </data>
+</odoo>

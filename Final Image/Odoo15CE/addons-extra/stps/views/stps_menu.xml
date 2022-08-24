@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+    <data>
+        <menuitem id="stps_menu" name="STPS" groups="stps_user_access" sequence="0" />
+        
+        <menuitem
+            id="statical_sector_menu"
+            name="Datos Estadísticos de Sector"
+            action="statistical_sector_action"
+            groups="stps_user_access"
+            parent="stps_menu"
+            sequence="1"/>
+
+            <menuitem
+            id="state_menu"
+            name="Estados"
+            action="state_action"
+            groups="stps_user_access"
+            parent="stps_menu"
+            sequence="2"/>
+
+            <menuitem
+            id="sector_menu"
+            name="Sector"
+            action="sector_action"
+            groups="stps_user_access"
+            parent="stps_menu"
+            sequence="3"/>
+
+            <menuitem
+            id="municipality_menu"
+            name="Municipios"
+            action="municipality_action"
+            groups="stps_user_access"
+            parent="stps_menu"
+            sequence="4"/>
+
+    </data>
+</odoo>

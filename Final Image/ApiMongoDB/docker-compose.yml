@@ -1,0 +1,13 @@
+version: '3'
+services:
+  stps_api_mongo:
+    build: .
+    # command: bundle exec jekyll serve --incremental --host 0.0.0.0
+    ports:
+      - "8080:8080" # jekyll serve
+    volumes:
+      - stps-api-data:/app
+    
+
+volumes:
+    stps-api-data:

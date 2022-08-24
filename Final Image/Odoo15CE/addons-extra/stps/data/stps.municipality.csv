@@ -1,0 +1,2459 @@
+id,code,code_state,name
+stps_municipality_1,001,AGU,Aguascalientes
+stps_municipality_2,001,BCN,Ensenada
+stps_municipality_3,001,BCS,Comondú
+stps_municipality_4,001,CAM,Calkiní
+stps_municipality_5,001,COA,Abasolo
+stps_municipality_6,001,COL,Armería
+stps_municipality_7,001,CHH,Ahumada
+stps_municipality_8,001,CHP,Acacoyagua
+stps_municipality_9,001,DUR,Canatlán
+stps_municipality_10,001,GRO,Acapulco de Juárez
+stps_municipality_11,001,GUA,Abasolo
+stps_municipality_12,001,HID,Acatlán
+stps_municipality_13,001,JAL,Acatic
+stps_municipality_14,001,MEX,Acambay de Ruíz Castañeda
+stps_municipality_15,001,MIC,Acuitzio
+stps_municipality_16,001,MOR,Amacuzac
+stps_municipality_17,001,NAY,Acaponeta
+stps_municipality_18,001,NLE,Abasolo
+stps_municipality_19,001,OAX,Abejones
+stps_municipality_20,001,PUE,Acajete
+stps_municipality_21,001,QUE,Amealco de Bonfil
+stps_municipality_22,001,ROO,Cozumel
+stps_municipality_23,001,SIN,Ahome
+stps_municipality_24,001,SLP,Ahualulco
+stps_municipality_25,001,SON,Aconchi
+stps_municipality_26,001,TAB,Balancán
+stps_municipality_27,001,TAM,Abasolo
+stps_municipality_28,001,TLA,Amaxac de Guerrero
+stps_municipality_29,001,VER,Acajete
+stps_municipality_30,001,YUC,Abalá
+stps_municipality_31,001,ZAC,Apozol
+stps_municipality_32,002,AGU,Asientos
+stps_municipality_33,002,BCN,Mexicali
+stps_municipality_34,002,BCS,Mulegé
+stps_municipality_35,002,CAM,Campeche
+stps_municipality_36,002,COA,Acuña
+stps_municipality_37,002,COL,Colima
+stps_municipality_38,002,CHH,Aldama
+stps_municipality_39,002,CHP,Acala
+stps_municipality_40,002,DIF,Azcapotzalco
+stps_municipality_41,002,DUR,Canelas
+stps_municipality_42,002,GRO,Ahuacuotzingo
+stps_municipality_43,002,GUA,Acámbaro
+stps_municipality_44,002,HID,Acaxochitlán
+stps_municipality_45,002,JAL,Acatlán de Juárez
+stps_municipality_46,002,MEX,Acolman
+stps_municipality_47,002,MIC,Aguililla
+stps_municipality_48,002,MOR,Atlatlahucan
+stps_municipality_49,002,NAY,Ahuacatlán
+stps_municipality_50,002,NLE,Agualeguas
+stps_municipality_51,002,OAX,Acatlán de Pérez Figueroa
+stps_municipality_52,002,PUE,Acateno
+stps_municipality_53,002,QUE,Pinal de Amoles
+stps_municipality_54,002,ROO,Felipe Carrillo Puerto
+stps_municipality_55,002,SIN,Angostura
+stps_municipality_56,002,SLP,Alaquines
+stps_municipality_57,002,SON,Agua Prieta
+stps_municipality_58,002,TAB,Cárdenas
+stps_municipality_59,002,TAM,Aldama
+stps_municipality_60,002,TLA,Apetatitlán de Antonio Carvajal
+stps_municipality_61,002,VER,Acatlán
+stps_municipality_62,002,YUC,Acanceh
+stps_municipality_63,002,ZAC,Apulco
+stps_municipality_64,003,AGU,Calvillo
+stps_municipality_65,003,BCN,Tecate
+stps_municipality_66,003,BCS,La Paz
+stps_municipality_67,003,CAM,Carmen
+stps_municipality_68,003,COA,Allende
+stps_municipality_69,003,COL,Comala
+stps_municipality_70,003,CHH,Allende
+stps_municipality_71,003,CHP,Acapetahua
+stps_municipality_72,003,DIF,Coyoacán
+stps_municipality_73,003,DUR,Coneto de Comonfort
+stps_municipality_74,003,GRO,Ajuchitlán del Progreso
+stps_municipality_75,003,GUA,San Miguel de Allende
+stps_municipality_76,003,HID,Actopan
+stps_municipality_77,003,JAL,Ahualulco de Mercado
+stps_municipality_78,003,MEX,Aculco
+stps_municipality_79,003,MIC,Álvaro Obregón
+stps_municipality_80,003,MOR,Axochiapan
+stps_municipality_81,003,NAY,Amatlán de Cañas
+stps_municipality_82,003,NLE,Los Aldamas
+stps_municipality_83,003,OAX,Asunción Cacalotepec
+stps_municipality_84,003,PUE,Acatlán
+stps_municipality_85,003,QUE,Arroyo Seco
+stps_municipality_86,003,ROO,Isla Mujeres
+stps_municipality_87,003,SIN,Badiraguato
+stps_municipality_88,003,SLP,Aquismón
+stps_municipality_89,003,SON,Alamos
+stps_municipality_90,003,TAB,Centla
+stps_municipality_91,003,TAM,Altamira
+stps_municipality_92,003,TLA,Atlangatepec
+stps_municipality_93,003,VER,Acayucan
+stps_municipality_94,003,YUC,Akil
+stps_municipality_95,003,ZAC,Atolinga
+stps_municipality_96,004,AGU,Cosío
+stps_municipality_97,004,BCN,Tijuana
+stps_municipality_98,004,CAM,Champotón
+stps_municipality_99,004,COA,Arteaga
+stps_municipality_100,004,COL,Coquimatlán
+stps_municipality_101,004,CHH,Aquiles Serdán
+stps_municipality_102,004,CHP,Altamirano
+stps_municipality_103,004,DIF,Cuajimalpa de Morelos
+stps_municipality_104,004,DUR,Cuencamé
+stps_municipality_105,004,GRO,Alcozauca de Guerrero
+stps_municipality_106,004,GUA,Apaseo el Alto
+stps_municipality_107,004,HID,Agua Blanca de Iturbide
+stps_municipality_108,004,JAL,Amacueca
+stps_municipality_109,004,MEX,Almoloya de Alquisiras
+stps_municipality_110,004,MIC,Angamacutiro
+stps_municipality_111,004,MOR,Ayala
+stps_municipality_112,004,NAY,Compostela
+stps_municipality_113,004,NLE,Allende
+stps_municipality_114,004,OAX,Asunción Cuyotepeji
+stps_municipality_115,004,PUE,Acatzingo
+stps_municipality_116,004,QUE,Cadereyta de Montes
+stps_municipality_117,004,ROO,Othón P. Blanco
+stps_municipality_118,004,SIN,Concordia
+stps_municipality_119,004,SLP,Armadillo de los Infante
+stps_municipality_120,004,SON,Altar
+stps_municipality_121,004,TAB,Centro
+stps_municipality_122,004,TAM,Antiguo Morelos
+stps_municipality_123,004,TLA,Atltzayanca
+stps_municipality_124,004,VER,Actopan
+stps_municipality_125,004,YUC,Baca
+stps_municipality_126,004,ZAC,Benito Juárez
+stps_municipality_127,005,AGU,Jesús María
+stps_municipality_128,005,BCN,Playas de Rosarito
+stps_municipality_129,005,CAM,Hecelchakán
+stps_municipality_130,005,COA,Candela
+stps_municipality_131,005,COL,Cuauhtémoc
+stps_municipality_132,005,CHH,Ascensión
+stps_municipality_133,005,CHP,Amatán
+stps_municipality_134,005,DIF,Gustavo A. Madero
+stps_municipality_135,005,DUR,Durango
+stps_municipality_136,005,GRO,Alpoyeca
+stps_municipality_137,005,GUA,Apaseo el Grande
+stps_municipality_138,005,HID,Ajacuba
+stps_municipality_139,005,JAL,Amatitán
+stps_municipality_140,005,MEX,Almoloya de Juárez
+stps_municipality_141,005,MIC,Angangueo
+stps_municipality_142,005,MOR,Coatlán del Río
+stps_municipality_143,005,NAY,Huajicori
+stps_municipality_144,005,NLE,Anáhuac
+stps_municipality_145,005,OAX,Asunción Ixtaltepec
+stps_municipality_146,005,PUE,Acteopan
+stps_municipality_147,005,QUE,Colón
+stps_municipality_148,005,ROO,Benito Juárez
+stps_municipality_149,005,SIN,Cosalá
+stps_municipality_150,005,SLP,Cárdenas
+stps_municipality_151,005,SON,Arivechi
+stps_municipality_152,005,TAB,Comalcalco
+stps_municipality_153,005,TAM,Burgos
+stps_municipality_154,005,TLA,Apizaco
+stps_municipality_155,005,VER,Acula
+stps_municipality_156,005,YUC,Bokobá
+stps_municipality_157,005,ZAC,Calera
+stps_municipality_158,006,AGU,Pabellón de Arteaga
+stps_municipality_159,006,CAM,Hopelchén
+stps_municipality_160,006,COA,Castaños
+stps_municipality_161,006,COL,Ixtlahuacán
+stps_municipality_162,006,CHH,Bachíniva
+stps_municipality_163,006,CHP,Amatenango de la Frontera
+stps_municipality_164,006,DIF,Iztacalco
+stps_municipality_165,006,DUR,General Simón Bolívar
+stps_municipality_166,006,GRO,Apaxtla
+stps_municipality_167,006,GUA,Atarjea
+stps_municipality_168,006,HID,Alfajayucan
+stps_municipality_169,006,JAL,Ameca
+stps_municipality_170,006,MEX,Almoloya del Río
+stps_municipality_171,006,MIC,Apatzingán
+stps_municipality_172,006,MOR,Cuautla
+stps_municipality_173,006,NAY,Ixtlán del Río
+stps_municipality_174,006,NLE,Apodaca
+stps_municipality_175,006,OAX,Asunción Nochixtlán
+stps_municipality_176,006,PUE,Ahuacatlán
+stps_municipality_177,006,QUE,Corregidora
+stps_municipality_178,006,ROO,José María Morelos
+stps_municipality_179,006,SIN,Culiacán
+stps_municipality_180,006,SLP,Catorce
+stps_municipality_181,006,SON,Arizpe
+stps_municipality_182,006,TAB,Cunduacán
+stps_municipality_183,006,TAM,Bustamante
+stps_municipality_184,006,TLA,Calpulalpan
+stps_municipality_185,006,VER,Acultzingo
+stps_municipality_186,006,YUC,Buctzotz
+stps_municipality_187,006,ZAC,Cañitas de Felipe Pescador
+stps_municipality_188,007,AGU,Rincón de Romos
+stps_municipality_189,007,CAM,Palizada
+stps_municipality_190,007,COA,Cuatro Ciénegas
+stps_municipality_191,007,COL,Manzanillo
+stps_municipality_192,007,CHH,Balleza
+stps_municipality_193,007,CHP,Amatenango del Valle
+stps_municipality_194,007,DIF,Iztapalapa
+stps_municipality_195,007,DUR,Gómez Palacio
+stps_municipality_196,007,GRO,Arcelia
+stps_municipality_197,007,GUA,Celaya
+stps_municipality_198,007,HID,Almoloya
+stps_municipality_199,007,JAL,San Juanito de Escobedo
+stps_municipality_200,007,MEX,Amanalco
+stps_municipality_201,007,MIC,Aporo
+stps_municipality_202,007,MOR,Cuernavaca
+stps_municipality_203,007,NAY,Jala
+stps_municipality_204,007,NLE,Aramberri
+stps_municipality_205,007,OAX,Asunción Ocotlán
+stps_municipality_206,007,PUE,Ahuatlán
+stps_municipality_207,007,QUE,Ezequiel Montes
+stps_municipality_208,007,ROO,Lázaro Cárdenas
+stps_municipality_209,007,SIN,Choix
+stps_municipality_210,007,SLP,Cedral
+stps_municipality_211,007,SON,Atil
+stps_municipality_212,007,TAB,Emiliano Zapata
+stps_municipality_213,007,TAM,Camargo
+stps_municipality_214,007,TLA,El Carmen Tequexquitla
+stps_municipality_215,007,VER,Camarón de Tejeda
+stps_municipality_216,007,YUC,Cacalchén
+stps_municipality_217,007,ZAC,Concepción del Oro
+stps_municipality_218,008,AGU,San José de Gracia
+stps_municipality_219,008,BCS,Los Cabos
+stps_municipality_220,008,CAM,Tenabo
+stps_municipality_221,008,COA,Escobedo
+stps_municipality_222,008,COL,Minatitlán
+stps_municipality_223,008,CHH,Batopilas
+stps_municipality_224,008,CHP,Angel Albino Corzo
+stps_municipality_225,008,DIF,La Magdalena Contreras
+stps_municipality_226,008,DUR,Guadalupe Victoria
+stps_municipality_227,008,GRO,Atenango del Río
+stps_municipality_228,008,GUA,Manuel Doblado
+stps_municipality_229,008,HID,Apan
+stps_municipality_230,008,JAL,Arandas
+stps_municipality_231,008,MEX,Amatepec
+stps_municipality_232,008,MIC,Aquila
+stps_municipality_233,008,MOR,Emiliano Zapata
+stps_municipality_234,008,NAY,Xalisco
+stps_municipality_235,008,NLE,Bustamante
+stps_municipality_236,008,OAX,Asunción Tlacolulita
+stps_municipality_237,008,PUE,Ahuazotepec
+stps_municipality_238,008,QUE,Huimilpan
+stps_municipality_239,008,ROO,Solidaridad
+stps_municipality_240,008,SIN,Elota
+stps_municipality_241,008,SLP,Cerritos
+stps_municipality_242,008,SON,Bacadéhuachi
+stps_municipality_243,008,TAB,Huimanguillo
+stps_municipality_244,008,TAM,Casas
+stps_municipality_245,008,TLA,Cuapiaxtla
+stps_municipality_246,008,VER,Alpatláhuac
+stps_municipality_247,008,YUC,Calotmul
+stps_municipality_248,008,ZAC,Cuauhtémoc
+stps_municipality_249,009,AGU,Tepezalá
+stps_municipality_250,009,BCS,Loreto
+stps_municipality_251,009,CAM,Escárcega
+stps_municipality_252,009,COA,Francisco I. Madero
+stps_municipality_253,009,COL,Tecomán
+stps_municipality_254,009,CHH,Bocoyna
+stps_municipality_255,009,CHP,Arriaga
+stps_municipality_256,009,DIF,Milpa Alta
+stps_municipality_257,009,DUR,Guanaceví
+stps_municipality_258,009,GRO,Atlamajalcingo del Monte
+stps_municipality_259,009,GUA,Comonfort
+stps_municipality_260,009,HID,El Arenal
+stps_municipality_261,009,JAL,El Arenal
+stps_municipality_262,009,MEX,Amecameca
+stps_municipality_263,009,MIC,Ario
+stps_municipality_264,009,MOR,Huitzilac
+stps_municipality_265,009,NAY,Del Nayar
+stps_municipality_266,009,NLE,Cadereyta Jiménez
+stps_municipality_267,009,OAX,Ayotzintepec
+stps_municipality_268,009,PUE,Ahuehuetitla
+stps_municipality_269,009,QUE,Jalpan de Serra
+stps_municipality_270,009,ROO,Tulum
+stps_municipality_271,009,SIN,Escuinapa
+stps_municipality_272,009,SLP,Cerro de San Pedro
+stps_municipality_273,009,SON,Bacanora
+stps_municipality_274,009,TAB,Jalapa
+stps_municipality_275,009,TAM,Ciudad Madero
+stps_municipality_276,009,TLA,Cuaxomulco
+stps_municipality_277,009,VER,Alto Lucero de Gutiérrez Barrios
+stps_municipality_278,009,YUC,Cansahcab
+stps_municipality_279,009,ZAC,Chalchihuites
+stps_municipality_280,010,AGU,El Llano
+stps_municipality_281,010,CAM,Calakmul
+stps_municipality_282,010,COA,Frontera
+stps_municipality_283,010,COL,Villa de Álvarez
+stps_municipality_284,010,CHH,Buenaventura
+stps_municipality_285,010,CHP,Bejucal de Ocampo
+stps_municipality_286,010,DIF,Álvaro Obregón
+stps_municipality_287,010,DUR,Hidalgo
+stps_municipality_288,010,GRO,Atlixtac
+stps_municipality_289,010,GUA,Coroneo
+stps_municipality_290,010,HID,Atitalaquia
+stps_municipality_291,010,JAL,Atemajac de Brizuela
+stps_municipality_292,010,MEX,Apaxco
+stps_municipality_293,010,MIC,Arteaga
+stps_municipality_294,010,MOR,Jantetelco
+stps_municipality_295,010,NAY,Rosamorada
+stps_municipality_296,010,NLE,El Carmen
+stps_municipality_297,010,OAX,El Barrio de la Soledad
+stps_municipality_298,010,PUE,Ajalpan
+stps_municipality_299,010,QUE,Landa de Matamoros
+stps_municipality_300,010,ROO,Bacalar
+stps_municipality_301,010,SIN,El Fuerte
+stps_municipality_302,010,SLP,Ciudad del Maíz
+stps_municipality_303,010,SON,Bacerac
+stps_municipality_304,010,TAB,Jalpa de Méndez
+stps_municipality_305,010,TAM,Cruillas
+stps_municipality_306,010,TLA,Chiautempan
+stps_municipality_307,010,VER,Altotonga
+stps_municipality_308,010,YUC,Cantamayec
+stps_municipality_309,010,ZAC,Fresnillo
+stps_municipality_310,011,AGU,San Francisco de los Romo
+stps_municipality_311,011,CAM,Candelaria
+stps_municipality_312,011,COA,General Cepeda
+stps_municipality_313,011,CHH,Camargo
+stps_municipality_314,011,CHP,Bella Vista
+stps_municipality_315,011,DIF,Tláhuac
+stps_municipality_316,011,DUR,Indé
+stps_municipality_317,011,GRO,Atoyac de Álvarez
+stps_municipality_318,011,GUA,Cortazar
+stps_municipality_319,011,HID,Atlapexco
+stps_municipality_320,011,JAL,Atengo
+stps_municipality_321,011,MEX,Atenco
+stps_municipality_322,011,MIC,Briseñas
+stps_municipality_323,011,MOR,Jiutepec
+stps_municipality_324,011,NAY,Ruíz
+stps_municipality_325,011,NLE,Cerralvo
+stps_municipality_326,011,OAX,Calihualá
+stps_municipality_327,011,PUE,Albino Zertuche
+stps_municipality_328,011,QUE,El Marqués
+stps_municipality_329,011,ROO,Puerto Morelos
+stps_municipality_330,011,SIN,Guasave
+stps_municipality_331,011,SLP,Ciudad Fernández
+stps_municipality_332,011,SON,Bacoachi
+stps_municipality_333,011,TAB,Jonuta
+stps_municipality_334,011,TAM,Gómez Farías
+stps_municipality_335,011,TLA,Muñoz de Domingo Arenas
+stps_municipality_336,011,VER,Alvarado
+stps_municipality_337,011,YUC,Celestún
+stps_municipality_338,011,ZAC,Trinidad García de la Cadena
+stps_municipality_339,012,COA,Guerrero
+stps_municipality_340,012,CHH,Carichí
+stps_municipality_341,012,CHP,Berriozábal
+stps_municipality_342,012,DIF,Tlalpan
+stps_municipality_343,012,DUR,Lerdo
+stps_municipality_344,012,GRO,Ayutla de los Libres
+stps_municipality_345,012,GUA,Cuerámaro
+stps_municipality_346,012,HID,Atotonilco el Grande
+stps_municipality_347,012,JAL,Atenguillo
+stps_municipality_348,012,MEX,Atizapán
+stps_municipality_349,012,MIC,Buenavista
+stps_municipality_350,012,MOR,Jojutla
+stps_municipality_351,012,NAY,San Blas
+stps_municipality_352,012,NLE,Ciénega de Flores
+stps_municipality_353,012,OAX,Candelaria Loxicha
+stps_municipality_354,012,PUE,Aljojuca
+stps_municipality_355,012,QUE,Pedro Escobedo
+stps_municipality_356,012,SIN,Mazatlán
+stps_municipality_357,012,SLP,Tancanhuitz
+stps_municipality_358,012,SON,Bácum
+stps_municipality_359,012,TAB,Macuspana
+stps_municipality_360,012,TAM,González
+stps_municipality_361,012,TLA,Españita
+stps_municipality_362,012,VER,Amatitlán
+stps_municipality_363,012,YUC,Cenotillo
+stps_municipality_364,012,ZAC,Genaro Codina
+stps_municipality_365,013,COA,Hidalgo
+stps_municipality_366,013,CHH,Casas Grandes
+stps_municipality_367,013,CHP,Bochil
+stps_municipality_368,013,DIF,Xochimilco
+stps_municipality_369,013,DUR,Mapimí
+stps_municipality_370,013,GRO,Azoyú
+stps_municipality_371,013,GUA,Doctor Mora
+stps_municipality_372,013,HID,Atotonilco de Tula
+stps_municipality_373,013,JAL,Atotonilco el Alto
+stps_municipality_374,013,MEX,Atizapán de Zaragoza
+stps_municipality_375,013,MIC,Carácuaro
+stps_municipality_376,013,MOR,Jonacatepec
+stps_municipality_377,013,NAY,San Pedro Lagunillas
+stps_municipality_378,013,NLE,China
+stps_municipality_379,013,OAX,Ciénega de Zimatlán
+stps_municipality_380,013,PUE,Altepexi
+stps_municipality_381,013,QUE,Peñamiller
+stps_municipality_382,013,SIN,Mocorito
+stps_municipality_383,013,SLP,Ciudad Valles
+stps_municipality_384,013,SON,Banámichi
+stps_municipality_385,013,TAB,Nacajuca
+stps_municipality_386,013,TAM,Güémez
+stps_municipality_387,013,TLA,Huamantla
+stps_municipality_388,013,VER,Naranjos Amatlán
+stps_municipality_389,013,YUC,Conkal
+stps_municipality_390,013,ZAC,General Enrique Estrada
+stps_municipality_391,014,COA,Jiménez
+stps_municipality_392,014,CHH,Coronado
+stps_municipality_393,014,CHP,El Bosque
+stps_municipality_394,014,DIF,Benito Juárez
+stps_municipality_395,014,DUR,Mezquital
+stps_municipality_396,014,GRO,Benito Juárez
+stps_municipality_397,014,GUA,Dolores Hidalgo Cuna de la Independencia Nacional
+stps_municipality_398,014,HID,Calnali
+stps_municipality_399,014,JAL,Atoyac
+stps_municipality_400,014,MEX,Atlacomulco
+stps_municipality_401,014,MIC,Coahuayana
+stps_municipality_402,014,MOR,Mazatepec
+stps_municipality_403,014,NAY,Santa María del Oro
+stps_municipality_404,014,NLE,Doctor Arroyo
+stps_municipality_405,014,OAX,Ciudad Ixtepec
+stps_municipality_406,014,PUE,Amixtlán
+stps_municipality_407,014,QUE,Querétaro
+stps_municipality_408,014,SIN,Rosario
+stps_municipality_409,014,SLP,Coxcatlán
+stps_municipality_410,014,SON,Baviácora
+stps_municipality_411,014,TAB,Paraíso
+stps_municipality_412,014,TAM,Guerrero
+stps_municipality_413,014,TLA,Hueyotlipan
+stps_municipality_414,014,VER,Amatlán de los Reyes
+stps_municipality_415,014,YUC,Cuncunul
+stps_municipality_416,014,ZAC,General Francisco R. Murguía
+stps_municipality_417,015,COA,Juárez
+stps_municipality_418,015,CHH,Coyame del Sotol
+stps_municipality_419,015,CHP,Cacahoatán
+stps_municipality_420,015,DIF,Cuauhtémoc
+stps_municipality_421,015,DUR,Nazas
+stps_municipality_422,015,GRO,Buenavista de Cuéllar
+stps_municipality_423,015,GUA,Guanajuato
+stps_municipality_424,015,HID,Cardonal
+stps_municipality_425,015,JAL,Autlán de Navarro
+stps_municipality_426,015,MEX,Atlautla
+stps_municipality_427,015,MIC,Coalcomán de Vázquez Pallares
+stps_municipality_428,015,MOR,Miacatlán
+stps_municipality_429,015,NAY,Santiago Ixcuintla
+stps_municipality_430,015,NLE,Doctor Coss
+stps_municipality_431,015,OAX,Coatecas Altas
+stps_municipality_432,015,PUE,Amozoc
+stps_municipality_433,015,QUE,San Joaquín
+stps_municipality_434,015,SIN,Salvador Alvarado
+stps_municipality_435,015,SLP,Charcas
+stps_municipality_436,015,SON,Bavispe
+stps_municipality_437,015,TAB,Tacotalpa
+stps_municipality_438,015,TAM,Gustavo Díaz Ordaz
+stps_municipality_439,015,TLA,Ixtacuixtla de Mariano Matamoros
+stps_municipality_440,015,VER,Angel R. Cabada
+stps_municipality_441,015,YUC,Cuzamá
+stps_municipality_442,015,ZAC,El Plateado de Joaquín Amaro
+stps_municipality_443,016,COA,Lamadrid
+stps_municipality_444,016,CHH,La Cruz
+stps_municipality_445,016,CHP,Catazajá
+stps_municipality_446,016,DIF,Miguel Hidalgo
+stps_municipality_447,016,DUR,Nombre de Dios
+stps_municipality_448,016,GRO,Coahuayutla de José María Izazaga
+stps_municipality_449,016,GUA,Huanímaro
+stps_municipality_450,016,HID,Cuautepec de Hinojosa
+stps_municipality_451,016,JAL,Ayotlán
+stps_municipality_452,016,MEX,Axapusco
+stps_municipality_453,016,MIC,Coeneo
+stps_municipality_454,016,MOR,Ocuituco
+stps_municipality_455,016,NAY,Tecuala
+stps_municipality_456,016,NLE,Doctor González
+stps_municipality_457,016,OAX,Coicoyán de las Flores
+stps_municipality_458,016,PUE,Aquixtla
+stps_municipality_459,016,QUE,San Juan del Río
+stps_municipality_460,016,SIN,San Ignacio
+stps_municipality_461,016,SLP,Ebano
+stps_municipality_462,016,SON,Benjamín Hill
+stps_municipality_463,016,TAB,Teapa
+stps_municipality_464,016,TAM,Hidalgo
+stps_municipality_465,016,TLA,Ixtenco
+stps_municipality_466,016,VER,La Antigua
+stps_municipality_467,016,YUC,Chacsinkín
+stps_municipality_468,016,ZAC,General Pánfilo Natera
+stps_municipality_469,017,COA,Matamoros
+stps_municipality_470,017,CHH,Cuauhtémoc
+stps_municipality_471,017,CHP,Cintalapa
+stps_municipality_472,017,DIF,Venustiano Carranza
+stps_municipality_473,017,DUR,Ocampo
+stps_municipality_474,017,GRO,Cocula
+stps_municipality_475,017,GUA,Irapuato
+stps_municipality_476,017,HID,Chapantongo
+stps_municipality_477,017,JAL,Ayutla
+stps_municipality_478,017,MEX,Ayapango
+stps_municipality_479,017,MIC,Contepec
+stps_municipality_480,017,MOR,Puente de Ixtla
+stps_municipality_481,017,NAY,Tepic
+stps_municipality_482,017,NLE,Galeana
+stps_municipality_483,017,OAX,La Compañía
+stps_municipality_484,017,PUE,Atempan
+stps_municipality_485,017,QUE,Tequisquiapan
+stps_municipality_486,017,SIN,Sinaloa
+stps_municipality_487,017,SLP,Guadalcázar
+stps_municipality_488,017,SON,Caborca
+stps_municipality_489,017,TAB,Tenosique
+stps_municipality_490,017,TAM,Jaumave
+stps_municipality_491,017,TLA,Mazatecochco de José María Morelos
+stps_municipality_492,017,VER,Apazapan
+stps_municipality_493,017,YUC,Chankom
+stps_municipality_494,017,ZAC,Guadalupe
+stps_municipality_495,018,COA,Monclova
+stps_municipality_496,018,CHH,Cusihuiriachi
+stps_municipality_497,018,CHP,Coapilla
+stps_municipality_498,018,DUR,El Oro
+stps_municipality_499,018,GRO,Copala
+stps_municipality_500,018,GUA,Jaral del Progreso
+stps_municipality_501,018,HID,Chapulhuacán
+stps_municipality_502,018,JAL,La Barca
+stps_municipality_503,018,MEX,Calimaya
+stps_municipality_504,018,MIC,Copándaro
+stps_municipality_505,018,MOR,Temixco
+stps_municipality_506,018,NAY,Tuxpan
+stps_municipality_507,018,NLE,García
+stps_municipality_508,018,OAX,Concepción Buenavista
+stps_municipality_509,018,PUE,Atexcal
+stps_municipality_510,018,QUE,Tolimán
+stps_municipality_511,018,SIN,Navolato
+stps_municipality_512,018,SLP,Huehuetlán
+stps_municipality_513,018,SON,Cajeme
+stps_municipality_514,018,TAM,Jiménez
+stps_municipality_515,018,TLA,Contla de Juan Cuamatzi
+stps_municipality_516,018,VER,Aquila
+stps_municipality_517,018,YUC,Chapab
+stps_municipality_518,018,ZAC,Huanusco
+stps_municipality_519,019,COA,Morelos
+stps_municipality_520,019,CHH,Chihuahua
+stps_municipality_521,019,CHP,Comitán de Domínguez
+stps_municipality_522,019,DUR,Otáez
+stps_municipality_523,019,GRO,Copalillo
+stps_municipality_524,019,GUA,Jerécuaro
+stps_municipality_525,019,HID,Chilcuautla
+stps_municipality_526,019,JAL,Bolaños
+stps_municipality_527,019,MEX,Capulhuac
+stps_municipality_528,019,MIC,Cotija
+stps_municipality_529,019,MOR,Tepalcingo
+stps_municipality_530,019,NAY,La Yesca
+stps_municipality_531,019,NLE,San Pedro Garza García
+stps_municipality_532,019,OAX,Concepción Pápalo
+stps_municipality_533,019,PUE,Atlixco
+stps_municipality_534,019,SLP,Lagunillas
+stps_municipality_535,019,SON,Cananea
+stps_municipality_536,019,TAM,Llera
+stps_municipality_537,019,TLA,Tepetitla de Lardizábal
+stps_municipality_538,019,VER,Astacinga
+stps_municipality_539,019,YUC,Chemax
+stps_municipality_540,019,ZAC,Jalpa
+stps_municipality_541,020,COA,Múzquiz
+stps_municipality_542,020,CHH,Chínipas
+stps_municipality_543,020,CHP,La Concordia
+stps_municipality_544,020,DUR,Pánuco de Coronado
+stps_municipality_545,020,GRO,Copanatoyac
+stps_municipality_546,020,GUA,León
+stps_municipality_547,020,HID,Eloxochitlán
+stps_municipality_548,020,JAL,Cabo Corrientes
+stps_municipality_549,020,MEX,Coacalco de Berriozábal
+stps_municipality_550,020,MIC,Cuitzeo
+stps_municipality_551,020,MOR,Tepoztlán
+stps_municipality_552,020,NAY,Bahía de Banderas
+stps_municipality_553,020,NLE,General Bravo
+stps_municipality_554,020,OAX,Constancia del Rosario
+stps_municipality_555,020,PUE,Atoyatempan
+stps_municipality_556,020,SLP,Matehuala
+stps_municipality_557,020,SON,Carbó
+stps_municipality_558,020,TAM,Mainero
+stps_municipality_559,020,TLA,Sanctórum de Lázaro Cárdenas
+stps_municipality_560,020,VER,Atlahuilco
+stps_municipality_561,020,YUC,Chicxulub Pueblo
+stps_municipality_562,020,ZAC,Jerez
+stps_municipality_563,021,COA,Nadadores
+stps_municipality_564,021,CHH,Delicias
+stps_municipality_565,021,CHP,Copainalá
+stps_municipality_566,021,DUR,Peñón Blanco
+stps_municipality_567,021,GRO,Coyuca de Benítez
+stps_municipality_568,021,GUA,Moroleón
+stps_municipality_569,021,HID,Emiliano Zapata
+stps_municipality_570,021,JAL,Casimiro Castillo
+stps_municipality_571,021,MEX,Coatepec Harinas
+stps_municipality_572,021,MIC,Charapan
+stps_municipality_573,021,MOR,Tetecala
+stps_municipality_574,021,NLE,General Escobedo
+stps_municipality_575,021,OAX,Cosolapa
+stps_municipality_576,021,PUE,Atzala
+stps_municipality_577,021,SLP,Mexquitic de Carmona
+stps_municipality_578,021,SON,La Colorada
+stps_municipality_579,021,TAM,El Mante
+stps_municipality_580,021,TLA,Nanacamilpa de Mariano Arista
+stps_municipality_581,021,VER,Atoyac
+stps_municipality_582,021,YUC,Chichimilá
+stps_municipality_583,021,ZAC,Jiménez del Teul
+stps_municipality_584,022,COA,Nava
+stps_municipality_585,022,CHH,Dr. Belisario Domínguez
+stps_municipality_586,022,CHP,Chalchihuitán
+stps_municipality_587,022,DUR,Poanas
+stps_municipality_588,022,GRO,Coyuca de Catalán
+stps_municipality_589,022,GUA,Ocampo
+stps_municipality_590,022,HID,Epazoyucan
+stps_municipality_591,022,JAL,Cihuatlán
+stps_municipality_592,022,MEX,Cocotitlán
+stps_municipality_593,022,MIC,Charo
+stps_municipality_594,022,MOR,Tetela del Volcán
+stps_municipality_595,022,NLE,General Terán
+stps_municipality_596,022,OAX,Cosoltepec
+stps_municipality_597,022,PUE,Atzitzihuacán
+stps_municipality_598,022,SLP,Moctezuma
+stps_municipality_599,022,SON,Cucurpe
+stps_municipality_600,022,TAM,Matamoros
+stps_municipality_601,022,TLA,Acuamanala de Miguel Hidalgo
+stps_municipality_602,022,VER,Atzacan
+stps_municipality_603,022,YUC,Chikindzonot
+stps_municipality_604,022,ZAC,Juan Aldama
+stps_municipality_605,023,COA,Ocampo
+stps_municipality_606,023,CHH,Galeana
+stps_municipality_607,023,CHP,Chamula
+stps_municipality_608,023,DUR,Pueblo Nuevo
+stps_municipality_609,023,GRO,Cuajinicuilapa
+stps_municipality_610,023,GUA,Pénjamo
+stps_municipality_611,023,HID,Francisco I. Madero
+stps_municipality_612,023,JAL,Zapotlán el Grande
+stps_municipality_613,023,MEX,Coyotepec
+stps_municipality_614,023,MIC,Chavinda
+stps_municipality_615,023,MOR,Tlalnepantla
+stps_municipality_616,023,NLE,General Treviño
+stps_municipality_617,023,OAX,Cuilápam de Guerrero
+stps_municipality_618,023,PUE,Atzitzintla
+stps_municipality_619,023,SLP,Rayón
+stps_municipality_620,023,SON,Cumpas
+stps_municipality_621,023,TAM,Méndez
+stps_municipality_622,023,TLA,Natívitas
+stps_municipality_623,023,VER,Atzalan
+stps_municipality_624,023,YUC,Chocholá
+stps_municipality_625,023,ZAC,Juchipila
+stps_municipality_626,024,COA,Parras
+stps_municipality_627,024,CHH,Santa Isabel
+stps_municipality_628,024,CHP,Chanal
+stps_municipality_629,024,DUR,Rodeo
+stps_municipality_630,024,GRO,Cualác
+stps_municipality_631,024,GUA,Pueblo Nuevo
+stps_municipality_632,024,HID,Huasca de Ocampo
+stps_municipality_633,024,JAL,Cocula
+stps_municipality_634,024,MEX,Cuautitlán
+stps_municipality_635,024,MIC,Cherán
+stps_municipality_636,024,MOR,Tlaltizapán de Zapata
+stps_municipality_637,024,NLE,General Zaragoza
+stps_municipality_638,024,OAX,Cuyamecalco Villa de Zaragoza
+stps_municipality_639,024,PUE,Axutla
+stps_municipality_640,024,SLP,Rioverde
+stps_municipality_641,024,SON,Divisaderos
+stps_municipality_642,024,TAM,Mier
+stps_municipality_643,024,TLA,Panotla
+stps_municipality_644,024,VER,Tlaltetela
+stps_municipality_645,024,YUC,Chumayel
+stps_municipality_646,024,ZAC,Loreto
+stps_municipality_647,025,COA,Piedras Negras
+stps_municipality_648,025,CHH,Gómez Farías
+stps_municipality_649,025,CHP,Chapultenango
+stps_municipality_650,025,DUR,San Bernardo
+stps_municipality_651,025,GRO,Cuautepec
+stps_municipality_652,025,GUA,Purísima del Rincón
+stps_municipality_653,025,HID,Huautla
+stps_municipality_654,025,JAL,Colotlán
+stps_municipality_655,025,MEX,Chalco
+stps_municipality_656,025,MIC,Chilchota
+stps_municipality_657,025,MOR,Tlaquiltenango
+stps_municipality_658,025,NLE,General Zuazua
+stps_municipality_659,025,OAX,Chahuites
+stps_municipality_660,025,PUE,Ayotoxco de Guerrero
+stps_municipality_661,025,SLP,Salinas
+stps_municipality_662,025,SON,Empalme
+stps_municipality_663,025,TAM,Miguel Alemán
+stps_municipality_664,025,TLA,San Pablo del Monte
+stps_municipality_665,025,VER,Ayahualulco
+stps_municipality_666,025,YUC,Dzán
+stps_municipality_667,025,ZAC,Luis Moya
+stps_municipality_668,026,COA,Progreso
+stps_municipality_669,026,CHH,Gran Morelos
+stps_municipality_670,026,CHP,Chenalhó
+stps_municipality_671,026,DUR,San Dimas
+stps_municipality_672,026,GRO,Cuetzala del Progreso
+stps_municipality_673,026,GUA,Romita
+stps_municipality_674,026,HID,Huazalingo
+stps_municipality_675,026,JAL,Concepción de Buenos Aires
+stps_municipality_676,026,MEX,Chapa de Mota
+stps_municipality_677,026,MIC,Chinicuila
+stps_municipality_678,026,MOR,Tlayacapan
+stps_municipality_679,026,NLE,Guadalupe
+stps_municipality_680,026,OAX,Chalcatongo de Hidalgo
+stps_municipality_681,026,PUE,Calpan
+stps_municipality_682,026,SLP,San Antonio
+stps_municipality_683,026,SON,Etchojoa
+stps_municipality_684,026,TAM,Miquihuana
+stps_municipality_685,026,TLA,Santa Cruz Tlaxcala
+stps_municipality_686,026,VER,Banderilla
+stps_municipality_687,026,YUC,Dzemul
+stps_municipality_688,026,ZAC,Mazapil
+stps_municipality_689,027,COA,Ramos Arizpe
+stps_municipality_690,027,CHH,Guachochi
+stps_municipality_691,027,CHP,Chiapa de Corzo
+stps_municipality_692,027,DUR,San Juan de Guadalupe
+stps_municipality_693,027,GRO,Cutzamala de Pinzón
+stps_municipality_694,027,GUA,Salamanca
+stps_municipality_695,027,HID,Huehuetla
+stps_municipality_696,027,JAL,Cuautitlán de García Barragán
+stps_municipality_697,027,MEX,Chapultepec
+stps_municipality_698,027,MIC,Chucándiro
+stps_municipality_699,027,MOR,Totolapan
+stps_municipality_700,027,NLE,Los Herreras
+stps_municipality_701,027,OAX,Chiquihuitlán de Benito Juárez
+stps_municipality_702,027,PUE,Caltepec
+stps_municipality_703,027,SLP,San Ciro de Acosta
+stps_municipality_704,027,SON,Fronteras
+stps_municipality_705,027,TAM,Nuevo Laredo
+stps_municipality_706,027,TLA,Tenancingo
+stps_municipality_707,027,VER,Benito Juárez
+stps_municipality_708,027,YUC,Dzidzantún
+stps_municipality_709,027,ZAC,Melchor Ocampo
+stps_municipality_710,028,COA,Sabinas
+stps_municipality_711,028,CHH,Guadalupe
+stps_municipality_712,028,CHP,Chiapilla
+stps_municipality_713,028,DUR,San Juan del Río
+stps_municipality_714,028,GRO,Chilapa de Álvarez
+stps_municipality_715,028,GUA,Salvatierra
+stps_municipality_716,028,HID,Huejutla de Reyes
+stps_municipality_717,028,JAL,Cuautla
+stps_municipality_718,028,MEX,Chiautla
+stps_municipality_719,028,MIC,Churintzio
+stps_municipality_720,028,MOR,Xochitepec
+stps_municipality_721,028,NLE,Higueras
+stps_municipality_722,028,OAX,Heroica Ciudad de Ejutla de Crespo
+stps_municipality_723,028,PUE,Camocuautla
+stps_municipality_724,028,SLP,San Luis Potosí
+stps_municipality_725,028,SON,Granados
+stps_municipality_726,028,TAM,Nuevo Morelos
+stps_municipality_727,028,TLA,Teolocholco
+stps_municipality_728,028,VER,Boca del Río
+stps_municipality_729,028,YUC,Dzilam de Bravo
+stps_municipality_730,028,ZAC,Mezquital del Oro
+stps_municipality_731,029,COA,Sacramento
+stps_municipality_732,029,CHH,Guadalupe y Calvo
+stps_municipality_733,029,CHP,Chicoasén
+stps_municipality_734,029,DUR,San Luis del Cordero
+stps_municipality_735,029,GRO,Chilpancingo de los Bravo
+stps_municipality_736,029,GUA,San Diego de la Unión
+stps_municipality_737,029,HID,Huichapan
+stps_municipality_738,029,JAL,Cuquío
+stps_municipality_739,029,MEX,Chicoloapan
+stps_municipality_740,029,MIC,Churumuco
+stps_municipality_741,029,MOR,Yautepec
+stps_municipality_742,029,NLE,Hualahuises
+stps_municipality_743,029,OAX,Eloxochitlán de Flores Magón
+stps_municipality_744,029,PUE,Caxhuacan
+stps_municipality_745,029,SLP,San Martín Chalchicuautla
+stps_municipality_746,029,SON,Guaymas
+stps_municipality_747,029,TAM,Ocampo
+stps_municipality_748,029,TLA,Tepeyanco
+stps_municipality_749,029,VER,Calcahualco
+stps_municipality_750,029,YUC,Dzilam González
+stps_municipality_751,029,ZAC,Miguel Auza
+stps_municipality_752,030,COA,Saltillo
+stps_municipality_753,030,CHH,Guazapares
+stps_municipality_754,030,CHP,Chicomuselo
+stps_municipality_755,030,DUR,San Pedro del Gallo
+stps_municipality_756,030,GRO,Florencio Villarreal
+stps_municipality_757,030,GUA,San Felipe
+stps_municipality_758,030,HID,Ixmiquilpan
+stps_municipality_759,030,JAL,Chapala
+stps_municipality_760,030,MEX,Chiconcuac
+stps_municipality_761,030,MIC,Ecuandureo
+stps_municipality_762,030,MOR,Yecapixtla
+stps_municipality_763,030,NLE,Iturbide
+stps_municipality_764,030,OAX,El Espinal
+stps_municipality_765,030,PUE,Coatepec
+stps_municipality_766,030,SLP,San Nicolás Tolentino
+stps_municipality_767,030,SON,Hermosillo
+stps_municipality_768,030,TAM,Padilla
+stps_municipality_769,030,TLA,Terrenate
+stps_municipality_770,030,VER,Camerino Z. Mendoza
+stps_municipality_771,030,YUC,Dzitás
+stps_municipality_772,030,ZAC,Momax
+stps_municipality_773,031,COA,San Buenaventura
+stps_municipality_774,031,CHH,Guerrero
+stps_municipality_775,031,CHP,Chilón
+stps_municipality_776,031,DUR,Santa Clara
+stps_municipality_777,031,GRO,General Canuto A. Neri
+stps_municipality_778,031,GUA,San Francisco del Rincón
+stps_municipality_779,031,HID,Jacala de Ledezma
+stps_municipality_780,031,JAL,Chimaltitán
+stps_municipality_781,031,MEX,Chimalhuacán
+stps_municipality_782,031,MIC,Epitacio Huerta
+stps_municipality_783,031,MOR,Zacatepec
+stps_municipality_784,031,NLE,Juárez
+stps_municipality_785,031,OAX,Tamazulápam del Espíritu Santo
+stps_municipality_786,031,PUE,Coatzingo
+stps_municipality_787,031,SLP,Santa Catarina
+stps_municipality_788,031,SON,Huachinera
+stps_municipality_789,031,TAM,Palmillas
+stps_municipality_790,031,TLA,Tetla de la Solidaridad
+stps_municipality_791,031,VER,Carrillo Puerto
+stps_municipality_792,031,YUC,Dzoncauich
+stps_municipality_793,031,ZAC,Monte Escobedo
+stps_municipality_794,032,COA,San Juan de Sabinas
+stps_municipality_795,032,CHH,Hidalgo del Parral
+stps_municipality_796,032,CHP,Escuintla
+stps_municipality_797,032,DUR,Santiago Papasquiaro
+stps_municipality_798,032,GRO,General Heliodoro Castillo
+stps_municipality_799,032,GUA,San José Iturbide
+stps_municipality_800,032,HID,Jaltocán
+stps_municipality_801,032,JAL,Chiquilistlán
+stps_municipality_802,032,MEX,Donato Guerra
+stps_municipality_803,032,MIC,Erongarícuaro
+stps_municipality_804,032,MOR,Zacualpan
+stps_municipality_805,032,NLE,Lampazos de Naranjo
+stps_municipality_806,032,OAX,Fresnillo de Trujano
+stps_municipality_807,032,PUE,Cohetzala
+stps_municipality_808,032,SLP,Santa María del Río
+stps_municipality_809,032,SON,Huásabas
+stps_municipality_810,032,TAM,Reynosa
+stps_municipality_811,032,TLA,Tetlatlahuca
+stps_municipality_812,032,VER,Catemaco
+stps_municipality_813,032,YUC,Espita
+stps_municipality_814,032,ZAC,Morelos
+stps_municipality_815,033,COA,San Pedro
+stps_municipality_816,033,CHH,Huejotitán
+stps_municipality_817,033,CHP,Francisco León
+stps_municipality_818,033,DUR,Súchil
+stps_municipality_819,033,GRO,Huamuxtitlán
+stps_municipality_820,033,GUA,San Luis de la Paz
+stps_municipality_821,033,HID,Juárez Hidalgo
+stps_municipality_822,033,JAL,Degollado
+stps_municipality_823,033,MEX,Ecatepec de Morelos
+stps_municipality_824,033,MIC,Gabriel Zamora
+stps_municipality_825,033,MOR,Temoac
+stps_municipality_826,033,NLE,Linares
+stps_municipality_827,033,OAX,Guadalupe Etla
+stps_municipality_828,033,PUE,Cohuecan
+stps_municipality_829,033,SLP,Santo Domingo
+stps_municipality_830,033,SON,Huatabampo
+stps_municipality_831,033,TAM,Río Bravo
+stps_municipality_832,033,TLA,Tlaxcala
+stps_municipality_833,033,VER,Cazones de Herrera
+stps_municipality_834,033,YUC,Halachó
+stps_municipality_835,033,ZAC,Moyahua de Estrada
+stps_municipality_836,034,COA,Sierra Mojada
+stps_municipality_837,034,CHH,Ignacio Zaragoza
+stps_municipality_838,034,CHP,Frontera Comalapa
+stps_municipality_839,034,DUR,Tamazula
+stps_municipality_840,034,GRO,Huitzuco de los Figueroa
+stps_municipality_841,034,GUA,Santa Catarina
+stps_municipality_842,034,HID,Lolotla
+stps_municipality_843,034,JAL,Ejutla
+stps_municipality_844,034,MEX,Ecatzingo
+stps_municipality_845,034,MIC,Hidalgo
+stps_municipality_846,034,NLE,Marín
+stps_municipality_847,034,OAX,Guadalupe de Ramírez
+stps_municipality_848,034,PUE,Coronango
+stps_municipality_849,034,SLP,San Vicente Tancuayalab
+stps_municipality_850,034,SON,Huépac
+stps_municipality_851,034,TAM,San Carlos
+stps_municipality_852,034,TLA,Tlaxco
+stps_municipality_853,034,VER,Cerro Azul
+stps_municipality_854,034,YUC,Hocabá
+stps_municipality_855,034,ZAC,Nochistlán de Mejía
+stps_municipality_856,035,COA,Torreón
+stps_municipality_857,035,CHH,Janos
+stps_municipality_858,035,CHP,Frontera Hidalgo
+stps_municipality_859,035,DUR,Tepehuanes
+stps_municipality_860,035,GRO,Iguala de la Independencia
+stps_municipality_861,035,GUA,Santa Cruz de Juventino Rosas
+stps_municipality_862,035,HID,Metepec
+stps_municipality_863,035,JAL,Encarnación de Díaz
+stps_municipality_864,035,MEX,Huehuetoca
+stps_municipality_865,035,MIC,La Huacana
+stps_municipality_866,035,NLE,Melchor Ocampo
+stps_municipality_867,035,OAX,Guelatao de Juárez
+stps_municipality_868,035,PUE,Coxcatlán
+stps_municipality_869,035,SLP,Soledad de Graciano Sánchez
+stps_municipality_870,035,SON,Imuris
+stps_municipality_871,035,TAM,San Fernando
+stps_municipality_872,035,TLA,Tocatlán
+stps_municipality_873,035,VER,Citlaltépetl
+stps_municipality_874,035,YUC,Hoctún
+stps_municipality_875,035,ZAC,Noria de Ángeles
+stps_municipality_876,036,COA,Viesca
+stps_municipality_877,036,CHH,Jiménez
+stps_municipality_878,036,CHP,La Grandeza
+stps_municipality_879,036,DUR,Tlahualilo
+stps_municipality_880,036,GRO,Igualapa
+stps_municipality_881,036,GUA,Santiago Maravatío
+stps_municipality_882,036,HID,San Agustín Metzquititlán
+stps_municipality_883,036,JAL,Etzatlán
+stps_municipality_884,036,MEX,Hueypoxtla
+stps_municipality_885,036,MIC,Huandacareo
+stps_municipality_886,036,NLE,Mier y Noriega
+stps_municipality_887,036,OAX,Guevea de Humboldt
+stps_municipality_888,036,PUE,Coyomeapan
+stps_municipality_889,036,SLP,Tamasopo
+stps_municipality_890,036,SON,Magdalena
+stps_municipality_891,036,TAM,San Nicolás
+stps_municipality_892,036,TLA,Totolac
+stps_municipality_893,036,VER,Coacoatzintla
+stps_municipality_894,036,YUC,Homún
+stps_municipality_895,036,ZAC,Ojocaliente
+stps_municipality_896,037,COA,Villa Unión
+stps_municipality_897,037,CHH,Juárez
+stps_municipality_898,037,CHP,Huehuetán
+stps_municipality_899,037,DUR,Topia
+stps_municipality_900,037,GRO,Ixcateopan de Cuauhtémoc
+stps_municipality_901,037,GUA,Silao de la Victoria
+stps_municipality_902,037,HID,Metztitlán
+stps_municipality_903,037,JAL,El Grullo
+stps_municipality_904,037,MEX,Huixquilucan
+stps_municipality_905,037,MIC,Huaniqueo
+stps_municipality_906,037,NLE,Mina
+stps_municipality_907,037,OAX,Mesones Hidalgo
+stps_municipality_908,037,PUE,Coyotepec
+stps_municipality_909,037,SLP,Tamazunchale
+stps_municipality_910,037,SON,Mazatán
+stps_municipality_911,037,TAM,Soto la Marina
+stps_municipality_912,037,TLA,Ziltlaltépec de Trinidad Sánchez Santos
+stps_municipality_913,037,VER,Coahuitlán
+stps_municipality_914,037,YUC,Huhí
+stps_municipality_915,037,ZAC,Pánuco
+stps_municipality_916,038,COA,Zaragoza
+stps_municipality_917,038,CHH,Julimes
+stps_municipality_918,038,CHP,Huixtán
+stps_municipality_919,038,DUR,Vicente Guerrero
+stps_municipality_920,038,GRO,Zihuatanejo de Azueta
+stps_municipality_921,038,GUA,Tarandacuao
+stps_municipality_922,038,HID,Mineral del Chico
+stps_municipality_923,038,JAL,Guachinango
+stps_municipality_924,038,MEX,Isidro Fabela
+stps_municipality_925,038,MIC,Huetamo
+stps_municipality_926,038,NLE,Montemorelos
+stps_municipality_927,038,OAX,Villa Hidalgo
+stps_municipality_928,038,PUE,Cuapiaxtla de Madero
+stps_municipality_929,038,SLP,Tampacán
+stps_municipality_930,038,SON,Moctezuma
+stps_municipality_931,038,TAM,Tampico
+stps_municipality_932,038,TLA,Tzompantepec
+stps_municipality_933,038,VER,Coatepec
+stps_municipality_934,038,YUC,Hunucmá
+stps_municipality_935,038,ZAC,Pinos
+stps_municipality_936,039,CHH,López
+stps_municipality_937,039,CHP,Huitiupán
+stps_municipality_938,039,DUR,Nuevo Ideal
+stps_municipality_939,039,GRO,Juan R. Escudero
+stps_municipality_940,039,GUA,Tarimoro
+stps_municipality_941,039,HID,Mineral del Monte
+stps_municipality_942,039,JAL,Guadalajara
+stps_municipality_943,039,MEX,Ixtapaluca
+stps_municipality_944,039,MIC,Huiramba
+stps_municipality_945,039,NLE,Monterrey
+stps_municipality_946,039,OAX,Heroica Ciudad de Huajuapan de León
+stps_municipality_947,039,PUE,Cuautempan
+stps_municipality_948,039,SLP,Tampamolón Corona
+stps_municipality_949,039,SON,Naco
+stps_municipality_950,039,TAM,Tula
+stps_municipality_951,039,TLA,Xaloztoc
+stps_municipality_952,039,VER,Coatzacoalcos
+stps_municipality_953,039,YUC,Ixil
+stps_municipality_954,039,ZAC,Río Grande
+stps_municipality_955,040,CHH,Madera
+stps_municipality_956,040,CHP,Huixtla
+stps_municipality_957,040,GRO,Leonardo Bravo
+stps_municipality_958,040,GUA,Tierra Blanca
+stps_municipality_959,040,HID,La Misión
+stps_municipality_960,040,JAL,Hostotipaquillo
+stps_municipality_961,040,MEX,Ixtapan de la Sal
+stps_municipality_962,040,MIC,Indaparapeo
+stps_municipality_963,040,NLE,Parás
+stps_municipality_964,040,OAX,Huautepec
+stps_municipality_965,040,PUE,Cuautinchán
+stps_municipality_966,040,SLP,Tamuín
+stps_municipality_967,040,SON,Nácori Chico
+stps_municipality_968,040,TAM,Valle Hermoso
+stps_municipality_969,040,TLA,Xaltocan
+stps_municipality_970,040,VER,Coatzintla
+stps_municipality_971,040,YUC,Izamal
+stps_municipality_972,040,ZAC,Sain Alto
+stps_municipality_973,041,CHH,Maguarichi
+stps_municipality_974,041,CHP,La Independencia
+stps_municipality_975,041,GRO,Malinaltepec
+stps_municipality_976,041,GUA,Uriangato
+stps_municipality_977,041,HID,Mixquiahuala de Juárez
+stps_municipality_978,041,JAL,Huejúcar
+stps_municipality_979,041,MEX,Ixtapan del Oro
+stps_municipality_980,041,MIC,Irimbo
+stps_municipality_981,041,NLE,Pesquería
+stps_municipality_982,041,OAX,Huautla de Jiménez
+stps_municipality_983,041,PUE,Cuautlancingo
+stps_municipality_984,041,SLP,Tanlajás
+stps_municipality_985,041,SON,Nacozari de García
+stps_municipality_986,041,TAM,Victoria
+stps_municipality_987,041,TLA,Papalotla de Xicohténcatl
+stps_municipality_988,041,VER,Coetzala
+stps_municipality_989,041,YUC,Kanasín
+stps_municipality_990,041,ZAC,El Salvador
+stps_municipality_991,042,CHH,Manuel Benavides
+stps_municipality_992,042,CHP,Ixhuatán
+stps_municipality_993,042,GRO,Mártir de Cuilapan
+stps_municipality_994,042,GUA,Valle de Santiago
+stps_municipality_995,042,HID,Molango de Escamilla
+stps_municipality_996,042,JAL,Huejuquilla el Alto
+stps_municipality_997,042,MEX,Ixtlahuaca
+stps_municipality_998,042,MIC,Ixtlán
+stps_municipality_999,042,NLE,Los Ramones
+stps_municipality_1000,042,OAX,Ixtlán de Juárez
+stps_municipality_1001,042,PUE,Cuayuca de Andrade
+stps_municipality_1002,042,SLP,Tanquián de Escobedo
+stps_municipality_1003,042,SON,Navojoa
+stps_municipality_1004,042,TAM,Villagrán
+stps_municipality_1005,042,TLA,Xicohtzinco
+stps_municipality_1006,042,VER,Colipa
+stps_municipality_1007,042,YUC,Kantunil
+stps_municipality_1008,042,ZAC,Sombrerete
+stps_municipality_1009,043,CHH,Matachí
+stps_municipality_1010,043,CHP,Ixtacomitán
+stps_municipality_1011,043,GRO,Metlatónoc
+stps_municipality_1012,043,GUA,Victoria
+stps_municipality_1013,043,HID,Nicolás Flores
+stps_municipality_1014,043,JAL,La Huerta
+stps_municipality_1015,043,MEX,Xalatlaco
+stps_municipality_1016,043,MIC,Jacona
+stps_municipality_1017,043,NLE,Rayones
+stps_municipality_1018,043,OAX,Heroica Ciudad de Juchitán de Zaragoza
+stps_municipality_1019,043,PUE,Cuetzalan del Progreso
+stps_municipality_1020,043,SLP,Tierra Nueva
+stps_municipality_1021,043,SON,Nogales
+stps_municipality_1022,043,TAM,Xicoténcatl
+stps_municipality_1023,043,TLA,Yauhquemehcan
+stps_municipality_1024,043,VER,Comapa
+stps_municipality_1025,043,YUC,Kaua
+stps_municipality_1026,043,ZAC,Susticacán
+stps_municipality_1027,044,CHH,Matamoros
+stps_municipality_1028,044,CHP,Ixtapa
+stps_municipality_1029,044,GRO,Mochitlán
+stps_municipality_1030,044,GUA,Villagrán
+stps_municipality_1031,044,HID,Nopala de Villagrán
+stps_municipality_1032,044,JAL,Ixtlahuacán de los Membrillos
+stps_municipality_1033,044,MEX,Jaltenco
+stps_municipality_1034,044,MIC,Jiménez
+stps_municipality_1035,044,NLE,Sabinas Hidalgo
+stps_municipality_1036,044,OAX,Loma Bonita
+stps_municipality_1037,044,PUE,Cuyoaco
+stps_municipality_1038,044,SLP,Vanegas
+stps_municipality_1039,044,SON,Onavas
+stps_municipality_1040,044,TLA,Zacatelco
+stps_municipality_1041,044,VER,Córdoba
+stps_municipality_1042,044,YUC,Kinchil
+stps_municipality_1043,044,ZAC,Tabasco
+stps_municipality_1044,045,CHH,Meoqui
+stps_municipality_1045,045,CHP,Ixtapangajoya
+stps_municipality_1046,045,GRO,Olinalá
+stps_municipality_1047,045,GUA,Xichú
+stps_municipality_1048,045,HID,Omitlán de Juárez
+stps_municipality_1049,045,JAL,Ixtlahuacán del Río
+stps_municipality_1050,045,MEX,Jilotepec
+stps_municipality_1051,045,MIC,Jiquilpan
+stps_municipality_1052,045,NLE,Salinas Victoria
+stps_municipality_1053,045,OAX,Magdalena Apasco
+stps_municipality_1054,045,PUE,Chalchicomula de Sesma
+stps_municipality_1055,045,SLP,Venado
+stps_municipality_1056,045,SON,Opodepe
+stps_municipality_1057,045,TLA,Benito Juárez
+stps_municipality_1058,045,VER,Cosamaloapan de Carpio
+stps_municipality_1059,045,YUC,Kopomá
+stps_municipality_1060,045,ZAC,Tepechitlán
+stps_municipality_1061,046,CHH,Morelos
+stps_municipality_1062,046,CHP,Jiquipilas
+stps_municipality_1063,046,GRO,Ometepec
+stps_municipality_1064,046,GUA,Yuriria
+stps_municipality_1065,046,HID,San Felipe Orizatlán
+stps_municipality_1066,046,JAL,Jalostotitlán
+stps_municipality_1067,046,MEX,Jilotzingo
+stps_municipality_1068,046,MIC,Juárez
+stps_municipality_1069,046,NLE,San Nicolás de los Garza
+stps_municipality_1070,046,OAX,Magdalena Jaltepec
+stps_municipality_1071,046,PUE,Chapulco
+stps_municipality_1072,046,SLP,Villa de Arriaga
+stps_municipality_1073,046,SON,Oquitoa
+stps_municipality_1074,046,TLA,Emiliano Zapata
+stps_municipality_1075,046,VER,Cosautlán de Carvajal
+stps_municipality_1076,046,YUC,Mama
+stps_municipality_1077,046,ZAC,Tepetongo
+stps_municipality_1078,047,CHH,Moris
+stps_municipality_1079,047,CHP,Jitotol
+stps_municipality_1080,047,GRO,Pedro Ascencio Alquisiras
+stps_municipality_1081,047,HID,Pacula
+stps_municipality_1082,047,JAL,Jamay
+stps_municipality_1083,047,MEX,Jiquipilco
+stps_municipality_1084,047,MIC,Jungapeo
+stps_municipality_1085,047,NLE,Hidalgo
+stps_municipality_1086,047,OAX,Santa Magdalena Jicotlán
+stps_municipality_1087,047,PUE,Chiautla
+stps_municipality_1088,047,SLP,Villa de Guadalupe
+stps_municipality_1089,047,SON,Pitiquito
+stps_municipality_1090,047,TLA,Lázaro Cárdenas
+stps_municipality_1091,047,VER,Coscomatepec
+stps_municipality_1092,047,YUC,Maní
+stps_municipality_1093,047,ZAC,Teúl de González Ortega
+stps_municipality_1094,048,CHH,Namiquipa
+stps_municipality_1095,048,CHP,Juárez
+stps_municipality_1096,048,GRO,Petatlán
+stps_municipality_1097,048,HID,Pachuca de Soto
+stps_municipality_1098,048,JAL,Jesús María
+stps_municipality_1099,048,MEX,Jocotitlán
+stps_municipality_1100,048,MIC,Lagunillas
+stps_municipality_1101,048,NLE,Santa Catarina
+stps_municipality_1102,048,OAX,Magdalena Mixtepec
+stps_municipality_1103,048,PUE,Chiautzingo
+stps_municipality_1104,048,SLP,Villa de la Paz
+stps_municipality_1105,048,SON,Puerto Peñasco
+stps_municipality_1106,048,TLA,La Magdalena Tlaltelulco
+stps_municipality_1107,048,VER,Cosoleacaque
+stps_municipality_1108,048,YUC,Maxcanú
+stps_municipality_1109,048,ZAC,Tlaltenango de Sánchez Román
+stps_municipality_1110,049,CHH,Nonoava
+stps_municipality_1111,049,CHP,Larráinzar
+stps_municipality_1112,049,GRO,Pilcaya
+stps_municipality_1113,049,HID,Pisaflores
+stps_municipality_1114,049,JAL,Jilotlán de los Dolores
+stps_municipality_1115,049,MEX,Joquicingo
+stps_municipality_1116,049,MIC,Madero
+stps_municipality_1117,049,NLE,Santiago
+stps_municipality_1118,049,OAX,Magdalena Ocotlán
+stps_municipality_1119,049,PUE,Chiconcuautla
+stps_municipality_1120,049,SLP,Villa de Ramos
+stps_municipality_1121,049,SON,Quiriego
+stps_municipality_1122,049,TLA,San Damián Texóloc
+stps_municipality_1123,049,VER,Cotaxtla
+stps_municipality_1124,049,YUC,Mayapán
+stps_municipality_1125,049,ZAC,Valparaíso
+stps_municipality_1126,050,CHH,Nuevo Casas Grandes
+stps_municipality_1127,050,CHP,La Libertad
+stps_municipality_1128,050,GRO,Pungarabato
+stps_municipality_1129,050,HID,Progreso de Obregón
+stps_municipality_1130,050,JAL,Jocotepec
+stps_municipality_1131,050,MEX,Juchitepec
+stps_municipality_1132,050,MIC,Maravatío
+stps_municipality_1133,050,NLE,Vallecillo
+stps_municipality_1134,050,OAX,Magdalena Peñasco
+stps_municipality_1135,050,PUE,Chichiquila
+stps_municipality_1136,050,SLP,Villa de Reyes
+stps_municipality_1137,050,SON,Rayón
+stps_municipality_1138,050,TLA,San Francisco Tetlanohcan
+stps_municipality_1139,050,VER,Coxquihui
+stps_municipality_1140,050,YUC,Mérida
+stps_municipality_1141,050,ZAC,Vetagrande
+stps_municipality_1142,051,CHH,Ocampo
+stps_municipality_1143,051,CHP,Mapastepec
+stps_municipality_1144,051,GRO,Quechultenango
+stps_municipality_1145,051,HID,Mineral de la Reforma
+stps_municipality_1146,051,JAL,Juanacatlán
+stps_municipality_1147,051,MEX,Lerma
+stps_municipality_1148,051,MIC,Marcos Castellanos
+stps_municipality_1149,051,NLE,Villaldama
+stps_municipality_1150,051,OAX,Magdalena Teitipac
+stps_municipality_1151,051,PUE,Chietla
+stps_municipality_1152,051,SLP,Villa Hidalgo
+stps_municipality_1153,051,SON,Rosario
+stps_municipality_1154,051,TLA,San Jerónimo Zacualpan
+stps_municipality_1155,051,VER,Coyutla
+stps_municipality_1156,051,YUC,Mocochá
+stps_municipality_1157,051,ZAC,Villa de Cos
+stps_municipality_1158,052,CHH,Ojinaga
+stps_municipality_1159,052,CHP,Las Margaritas
+stps_municipality_1160,052,GRO,San Luis Acatlán
+stps_municipality_1161,052,HID,San Agustín Tlaxiaca
+stps_municipality_1162,052,JAL,Juchitlán
+stps_municipality_1163,052,MEX,Malinalco
+stps_municipality_1164,052,MIC,Lázaro Cárdenas
+stps_municipality_1165,052,OAX,Magdalena Tequisistlán
+stps_municipality_1166,052,PUE,Chigmecatitlán
+stps_municipality_1167,052,SLP,Villa Juárez
+stps_municipality_1168,052,SON,Sahuaripa
+stps_municipality_1169,052,TLA,San José Teacalco
+stps_municipality_1170,052,VER,Cuichapa
+stps_municipality_1171,052,YUC,Motul
+stps_municipality_1172,052,ZAC,Villa García
+stps_municipality_1173,053,CHH,Praxedis G. Guerrero
+stps_municipality_1174,053,CHP,Mazapa de Madero
+stps_municipality_1175,053,GRO,San Marcos
+stps_municipality_1176,053,HID,San Bartolo Tutotepec
+stps_municipality_1177,053,JAL,Lagos de Moreno
+stps_municipality_1178,053,MEX,Melchor Ocampo
+stps_municipality_1179,053,MIC,Morelia
+stps_municipality_1180,053,OAX,Magdalena Tlacotepec
+stps_municipality_1181,053,PUE,Chignahuapan
+stps_municipality_1182,053,SLP,Axtla de Terrazas
+stps_municipality_1183,053,SON,San Felipe de Jesús
+stps_municipality_1184,053,TLA,San Juan Huactzinco
+stps_municipality_1185,053,VER,Cuitláhuac
+stps_municipality_1186,053,YUC,Muna
+stps_municipality_1187,053,ZAC,Villa González Ortega
+stps_municipality_1188,054,CHH,Riva Palacio
+stps_municipality_1189,054,CHP,Mazatán
+stps_municipality_1190,054,GRO,San Miguel Totolapan
+stps_municipality_1191,054,HID,San Salvador
+stps_municipality_1192,054,JAL,El Limón
+stps_municipality_1193,054,MEX,Metepec
+stps_municipality_1194,054,MIC,Morelos
+stps_municipality_1195,054,OAX,Magdalena Zahuatlán
+stps_municipality_1196,054,PUE,Chignautla
+stps_municipality_1197,054,SLP,Xilitla
+stps_municipality_1198,054,SON,San Javier
+stps_municipality_1199,054,TLA,San Lorenzo Axocomanitla
+stps_municipality_1200,054,VER,Chacaltianguis
+stps_municipality_1201,054,YUC,Muxupip
+stps_municipality_1202,054,ZAC,Villa Hidalgo
+stps_municipality_1203,055,CHH,Rosales
+stps_municipality_1204,055,CHP,Metapa
+stps_municipality_1205,055,GRO,Taxco de Alarcón
+stps_municipality_1206,055,HID,Santiago de Anaya
+stps_municipality_1207,055,JAL,Magdalena
+stps_municipality_1208,055,MEX,Mexicaltzingo
+stps_municipality_1209,055,MIC,Múgica
+stps_municipality_1210,055,OAX,Mariscala de Juárez
+stps_municipality_1211,055,PUE,Chila
+stps_municipality_1212,055,SLP,Zaragoza
+stps_municipality_1213,055,SON,San Luis Río Colorado
+stps_municipality_1214,055,TLA,San Lucas Tecopilco
+stps_municipality_1215,055,VER,Chalma
+stps_municipality_1216,055,YUC,Opichén
+stps_municipality_1217,055,ZAC,Villanueva
+stps_municipality_1218,056,CHH,Rosario
+stps_municipality_1219,056,CHP,Mitontic
+stps_municipality_1220,056,GRO,Tecoanapa
+stps_municipality_1221,056,HID,Santiago Tulantepec de Lugo Guerrero
+stps_municipality_1222,056,JAL,Santa María del Oro
+stps_municipality_1223,056,MEX,Morelos
+stps_municipality_1224,056,MIC,Nahuatzen
+stps_municipality_1225,056,OAX,Mártires de Tacubaya
+stps_municipality_1226,056,PUE,Chila de la Sal
+stps_municipality_1227,056,SLP,Villa de Arista
+stps_municipality_1228,056,SON,San Miguel de Horcasitas
+stps_municipality_1229,056,TLA,Santa Ana Nopalucan
+stps_municipality_1230,056,VER,Chiconamel
+stps_municipality_1231,056,YUC,Oxkutzcab
+stps_municipality_1232,056,ZAC,Zacatecas
+stps_municipality_1233,057,CHH,San Francisco de Borja
+stps_municipality_1234,057,CHP,Motozintla
+stps_municipality_1235,057,GRO,Técpan de Galeana
+stps_municipality_1236,057,HID,Singuilucan
+stps_municipality_1237,057,JAL,La Manzanilla de la Paz
+stps_municipality_1238,057,MEX,Naucalpan de Juárez
+stps_municipality_1239,057,MIC,Nocupétaro
+stps_municipality_1240,057,OAX,Matías Romero Avendaño
+stps_municipality_1241,057,PUE,Honey
+stps_municipality_1242,057,SLP,Matlapa
+stps_municipality_1243,057,SON,San Pedro de la Cueva
+stps_municipality_1244,057,TLA,Santa Apolonia Teacalco
+stps_municipality_1245,057,VER,Chiconquiaco
+stps_municipality_1246,057,YUC,Panabá
+stps_municipality_1247,057,ZAC,Trancoso
+stps_municipality_1248,058,CHH,San Francisco de Conchos
+stps_municipality_1249,058,CHP,Nicolás Ruíz
+stps_municipality_1250,058,GRO,Teloloapan
+stps_municipality_1251,058,HID,Tasquillo
+stps_municipality_1252,058,JAL,Mascota
+stps_municipality_1253,058,MEX,Nezahualcóyotl
+stps_municipality_1254,058,MIC,Nuevo Parangaricutiro
+stps_municipality_1255,058,OAX,Mazatlán Villa de Flores
+stps_municipality_1256,058,PUE,Chilchotla
+stps_municipality_1257,058,SLP,El Naranjo
+stps_municipality_1258,058,SON,Santa Ana
+stps_municipality_1259,058,TLA,Santa Catarina Ayometla
+stps_municipality_1260,058,VER,Chicontepec
+stps_municipality_1261,058,YUC,Peto
+stps_municipality_1262,058,ZAC,Santa María de la Paz
+stps_municipality_1263,059,CHH,San Francisco del Oro
+stps_municipality_1264,059,CHP,Ocosingo
+stps_municipality_1265,059,GRO,Tepecoacuilco de Trujano
+stps_municipality_1266,059,HID,Tecozautla
+stps_municipality_1267,059,JAL,Mazamitla
+stps_municipality_1268,059,MEX,Nextlalpan
+stps_municipality_1269,059,MIC,Nuevo Urecho
+stps_municipality_1270,059,OAX,Miahuatlán de Porfirio Díaz
+stps_municipality_1271,059,PUE,Chinantla
+stps_municipality_1272,059,SON,Santa Cruz
+stps_municipality_1273,059,TLA,Santa Cruz Quilehtla
+stps_municipality_1274,059,VER,Chinameca
+stps_municipality_1275,059,YUC,Progreso
+stps_municipality_1276,060,CHH,Santa Bárbara
+stps_municipality_1277,060,CHP,Ocotepec
+stps_municipality_1278,060,GRO,Tetipac
+stps_municipality_1279,060,HID,Tenango de Doria
+stps_municipality_1280,060,JAL,Mexticacán
+stps_municipality_1281,060,MEX,Nicolás Romero
+stps_municipality_1282,060,MIC,Numarán
+stps_municipality_1283,060,OAX,Mixistlán de la Reforma
+stps_municipality_1284,060,PUE,Domingo Arenas
+stps_municipality_1285,060,SON,Sáric
+stps_municipality_1286,060,TLA,Santa Isabel Xiloxoxtla
+stps_municipality_1287,060,VER,Chinampa de Gorostiza
+stps_municipality_1288,060,YUC,Quintana Roo
+stps_municipality_1289,061,CHH,Satevó
+stps_municipality_1290,061,CHP,Ocozocoautla de Espinosa
+stps_municipality_1291,061,GRO,Tixtla de Guerrero
+stps_municipality_1292,061,HID,Tepeapulco
+stps_municipality_1293,061,JAL,Mezquitic
+stps_municipality_1294,061,MEX,Nopaltepec
+stps_municipality_1295,061,MIC,Ocampo
+stps_municipality_1296,061,OAX,Monjas
+stps_municipality_1297,061,PUE,Eloxochitlán
+stps_municipality_1298,061,SON,Soyopa
+stps_municipality_1299,061,VER,Las Choapas
+stps_municipality_1300,061,YUC,Río Lagartos
+stps_municipality_1301,062,CHH,Saucillo
+stps_municipality_1302,062,CHP,Ostuacán
+stps_municipality_1303,062,GRO,Tlacoachistlahuaca
+stps_municipality_1304,062,HID,Tepehuacán de Guerrero
+stps_municipality_1305,062,JAL,Mixtlán
+stps_municipality_1306,062,MEX,Ocoyoacac
+stps_municipality_1307,062,MIC,Pajacuarán
+stps_municipality_1308,062,OAX,Natividad
+stps_municipality_1309,062,PUE,Epatlán
+stps_municipality_1310,062,SON,Suaqui Grande
+stps_municipality_1311,062,VER,Chocamán
+stps_municipality_1312,062,YUC,Sacalum
+stps_municipality_1313,063,CHH,Temósachic
+stps_municipality_1314,063,CHP,Osumacinta
+stps_municipality_1315,063,GRO,Tlacoapa
+stps_municipality_1316,063,HID,Tepeji del Río de Ocampo
+stps_municipality_1317,063,JAL,Ocotlán
+stps_municipality_1318,063,MEX,Ocuilan
+stps_municipality_1319,063,MIC,Panindícuaro
+stps_municipality_1320,063,OAX,Nazareno Etla
+stps_municipality_1321,063,PUE,Esperanza
+stps_municipality_1322,063,SON,Tepache
+stps_municipality_1323,063,VER,Chontla
+stps_municipality_1324,063,YUC,Samahil
+stps_municipality_1325,064,CHH,El Tule
+stps_municipality_1326,064,CHP,Oxchuc
+stps_municipality_1327,064,GRO,Tlalchapa
+stps_municipality_1328,064,HID,Tepetitlán
+stps_municipality_1329,064,JAL,Ojuelos de Jalisco
+stps_municipality_1330,064,MEX,El Oro
+stps_municipality_1331,064,MIC,Parácuaro
+stps_municipality_1332,064,OAX,Nejapa de Madero
+stps_municipality_1333,064,PUE,Francisco Z. Mena
+stps_municipality_1334,064,SON,Trincheras
+stps_municipality_1335,064,VER,Chumatlán
+stps_municipality_1336,064,YUC,Sanahcat
+stps_municipality_1337,065,CHH,Urique
+stps_municipality_1338,065,CHP,Palenque
+stps_municipality_1339,065,GRO,Tlalixtaquilla de Maldonado
+stps_municipality_1340,065,HID,Tetepango
+stps_municipality_1341,065,JAL,Pihuamo
+stps_municipality_1342,065,MEX,Otumba
+stps_municipality_1343,065,MIC,Paracho
+stps_municipality_1344,065,OAX,Ixpantepec Nieves
+stps_municipality_1345,065,PUE,General Felipe Ángeles
+stps_municipality_1346,065,SON,Tubutama
+stps_municipality_1347,065,VER,Emiliano Zapata
+stps_municipality_1348,065,YUC,San Felipe
+stps_municipality_1349,066,CHH,Uruachi
+stps_municipality_1350,066,CHP,Pantelhó
+stps_municipality_1351,066,GRO,Tlapa de Comonfort
+stps_municipality_1352,066,HID,Villa de Tezontepec
+stps_municipality_1353,066,JAL,Poncitlán
+stps_municipality_1354,066,MEX,Otzoloapan
+stps_municipality_1355,066,MIC,Pátzcuaro
+stps_municipality_1356,066,OAX,Santiago Niltepec
+stps_municipality_1357,066,PUE,Guadalupe
+stps_municipality_1358,066,SON,Ures
+stps_municipality_1359,066,VER,Espinal
+stps_municipality_1360,066,YUC,Santa Elena
+stps_municipality_1361,067,CHH,Valle de Zaragoza
+stps_municipality_1362,067,CHP,Pantepec
+stps_municipality_1363,067,GRO,Tlapehuala
+stps_municipality_1364,067,HID,Tezontepec de Aldama
+stps_municipality_1365,067,JAL,Puerto Vallarta
+stps_municipality_1366,067,MEX,Otzolotepec
+stps_municipality_1367,067,MIC,Penjamillo
+stps_municipality_1368,067,OAX,Oaxaca de Juárez
+stps_municipality_1369,067,PUE,Guadalupe Victoria
+stps_municipality_1370,067,SON,Villa Hidalgo
+stps_municipality_1371,067,VER,Filomeno Mata
+stps_municipality_1372,067,YUC,Seyé
+stps_municipality_1373,068,CHP,Pichucalco
+stps_municipality_1374,068,GRO,La Unión de Isidoro Montes de Oca
+stps_municipality_1375,068,HID,Tianguistengo
+stps_municipality_1376,068,JAL,Villa Purificación
+stps_municipality_1377,068,MEX,Ozumba
+stps_municipality_1378,068,MIC,Peribán
+stps_municipality_1379,068,OAX,Ocotlán de Morelos
+stps_municipality_1380,068,PUE,Hermenegildo Galeana
+stps_municipality_1381,068,SON,Villa Pesqueira
+stps_municipality_1382,068,VER,Fortín
+stps_municipality_1383,068,YUC,Sinanché
+stps_municipality_1384,069,CHP,Pijijiapan
+stps_municipality_1385,069,GRO,Xalpatláhuac
+stps_municipality_1386,069,HID,Tizayuca
+stps_municipality_1387,069,JAL,Quitupan
+stps_municipality_1388,069,MEX,Papalotla
+stps_municipality_1389,069,MIC,La Piedad
+stps_municipality_1390,069,OAX,La Pe
+stps_municipality_1391,069,PUE,Huaquechula
+stps_municipality_1392,069,SON,Yécora
+stps_municipality_1393,069,VER,Gutiérrez Zamora
+stps_municipality_1394,069,YUC,Sotuta
+stps_municipality_1395,070,CHP,El Porvenir
+stps_municipality_1396,070,GRO,Xochihuehuetlán
+stps_municipality_1397,070,HID,Tlahuelilpan
+stps_municipality_1398,070,JAL,El Salto
+stps_municipality_1399,070,MEX,La Paz
+stps_municipality_1400,070,MIC,Purépero
+stps_municipality_1401,070,OAX,Pinotepa de Don Luis
+stps_municipality_1402,070,PUE,Huatlatlauca
+stps_municipality_1403,070,SON,General Plutarco Elías Calles
+stps_municipality_1404,070,VER,Hidalgotitlán
+stps_municipality_1405,070,YUC,Sucilá
+stps_municipality_1406,071,CHP,Villa Comaltitlán
+stps_municipality_1407,071,GRO,Xochistlahuaca
+stps_municipality_1408,071,HID,Tlahuiltepa
+stps_municipality_1409,071,JAL,San Cristóbal de la Barranca
+stps_municipality_1410,071,MEX,Polotitlán
+stps_municipality_1411,071,MIC,Puruándiro
+stps_municipality_1412,071,OAX,Pluma Hidalgo
+stps_municipality_1413,071,PUE,Huauchinango
+stps_municipality_1414,071,SON,Benito Juárez
+stps_municipality_1415,071,VER,Huatusco
+stps_municipality_1416,071,YUC,Sudzal
+stps_municipality_1417,072,CHP,Pueblo Nuevo Solistahuacán
+stps_municipality_1418,072,GRO,Zapotitlán Tablas
+stps_municipality_1419,072,HID,Tlanalapa
+stps_municipality_1420,072,JAL,San Diego de Alejandría
+stps_municipality_1421,072,MEX,Rayón
+stps_municipality_1422,072,MIC,Queréndaro
+stps_municipality_1423,072,OAX,San José del Progreso
+stps_municipality_1424,072,PUE,Huehuetla
+stps_municipality_1425,072,SON,San Ignacio Río Muerto
+stps_municipality_1426,072,VER,Huayacocotla
+stps_municipality_1427,072,YUC,Suma
+stps_municipality_1428,073,CHP,Rayón
+stps_municipality_1429,073,GRO,Zirándaro
+stps_municipality_1430,073,HID,Tlanchinol
+stps_municipality_1431,073,JAL,San Juan de los Lagos
+stps_municipality_1432,073,MEX,San Antonio la Isla
+stps_municipality_1433,073,MIC,Quiroga
+stps_municipality_1434,073,OAX,Putla Villa de Guerrero
+stps_municipality_1435,073,PUE,Huehuetlán el Chico
+stps_municipality_1436,073,VER,Hueyapan de Ocampo
+stps_municipality_1437,073,YUC,Tahdziú
+stps_municipality_1438,074,CHP,Reforma
+stps_municipality_1439,074,GRO,Zitlala
+stps_municipality_1440,074,HID,Tlaxcoapan
+stps_municipality_1441,074,JAL,San Julián
+stps_municipality_1442,074,MEX,San Felipe del Progreso
+stps_municipality_1443,074,MIC,Cojumatlán de Régules
+stps_municipality_1444,074,OAX,Santa Catarina Quioquitani
+stps_municipality_1445,074,PUE,Huejotzingo
+stps_municipality_1446,074,VER,Huiloapan de Cuauhtémoc
+stps_municipality_1447,074,YUC,Tahmek
+stps_municipality_1448,075,CHP,Las Rosas
+stps_municipality_1449,075,GRO,Eduardo Neri
+stps_municipality_1450,075,HID,Tolcayuca
+stps_municipality_1451,075,JAL,San Marcos
+stps_municipality_1452,075,MEX,San Martín de las Pirámides
+stps_municipality_1453,075,MIC,Los Reyes
+stps_municipality_1454,075,OAX,Reforma de Pineda
+stps_municipality_1455,075,PUE,Hueyapan
+stps_municipality_1456,075,VER,Ignacio de la Llave
+stps_municipality_1457,075,YUC,Teabo
+stps_municipality_1458,076,CHP,Sabanilla
+stps_municipality_1459,076,GRO,Acatepec
+stps_municipality_1460,076,HID,Tula de Allende
+stps_municipality_1461,076,JAL,San Martín de Bolaños
+stps_municipality_1462,076,MEX,San Mateo Atenco
+stps_municipality_1463,076,MIC,Sahuayo
+stps_municipality_1464,076,OAX,La Reforma
+stps_municipality_1465,076,PUE,Hueytamalco
+stps_municipality_1466,076,VER,Ilamatlán
+stps_municipality_1467,076,YUC,Tecoh
+stps_municipality_1468,077,CHP,Salto de Agua
+stps_municipality_1469,077,GRO,Marquelia
+stps_municipality_1470,077,HID,Tulancingo de Bravo
+stps_municipality_1471,077,JAL,San Martín Hidalgo
+stps_municipality_1472,077,MEX,San Simón de Guerrero
+stps_municipality_1473,077,MIC,San Lucas
+stps_municipality_1474,077,OAX,Reyes Etla
+stps_municipality_1475,077,PUE,Hueytlalpan
+stps_municipality_1476,077,VER,Isla
+stps_municipality_1477,077,YUC,Tekal de Venegas
+stps_municipality_1478,078,CHP,San Cristóbal de las Casas
+stps_municipality_1479,078,GRO,Cochoapa el Grande
+stps_municipality_1480,078,HID,Xochiatipan
+stps_municipality_1481,078,JAL,San Miguel el Alto
+stps_municipality_1482,078,MEX,Santo Tomás
+stps_municipality_1483,078,MIC,Santa Ana Maya
+stps_municipality_1484,078,OAX,Rojas de Cuauhtémoc
+stps_municipality_1485,078,PUE,Huitzilan de Serdán
+stps_municipality_1486,078,VER,Ixcatepec
+stps_municipality_1487,078,YUC,Tekantó
+stps_municipality_1488,079,CHP,San Fernando
+stps_municipality_1489,079,GRO,José Joaquín de Herrera
+stps_municipality_1490,079,HID,Xochicoatlán
+stps_municipality_1491,079,JAL,Gómez Farías
+stps_municipality_1492,079,MEX,Soyaniquilpan de Juárez
+stps_municipality_1493,079,MIC,Salvador Escalante
+stps_municipality_1494,079,OAX,Salina Cruz
+stps_municipality_1495,079,PUE,Huitziltepec
+stps_municipality_1496,079,VER,Ixhuacán de los Reyes
+stps_municipality_1497,079,YUC,Tekax
+stps_municipality_1498,080,CHP,Siltepec
+stps_municipality_1499,080,GRO,Juchitán
+stps_municipality_1500,080,HID,Yahualica
+stps_municipality_1501,080,JAL,San Sebastián del Oeste
+stps_municipality_1502,080,MEX,Sultepec
+stps_municipality_1503,080,MIC,Senguio
+stps_municipality_1504,080,OAX,San Agustín Amatengo
+stps_municipality_1505,080,PUE,Atlequizayan
+stps_municipality_1506,080,VER,Ixhuatlán del Café
+stps_municipality_1507,080,YUC,Tekit
+stps_municipality_1508,081,CHP,Simojovel
+stps_municipality_1509,081,GRO,Iliatenco
+stps_municipality_1510,081,HID,Zacualtipán de Ángeles
+stps_municipality_1511,081,JAL,Santa María de los Ángeles
+stps_municipality_1512,081,MEX,Tecámac
+stps_municipality_1513,081,MIC,Susupuato
+stps_municipality_1514,081,OAX,San Agustín Atenango
+stps_municipality_1515,081,PUE,Ixcamilpa de Guerrero
+stps_municipality_1516,081,VER,Ixhuatlancillo
+stps_municipality_1517,081,YUC,Tekom
+stps_municipality_1518,082,CHP,Sitalá
+stps_municipality_1519,082,HID,Zapotlán de Juárez
+stps_municipality_1520,082,JAL,Sayula
+stps_municipality_1521,082,MEX,Tejupilco
+stps_municipality_1522,082,MIC,Tacámbaro
+stps_municipality_1523,082,OAX,San Agustín Chayuco
+stps_municipality_1524,082,PUE,Ixcaquixtla
+stps_municipality_1525,082,VER,Ixhuatlán del Sureste
+stps_municipality_1526,082,YUC,Telchac Pueblo
+stps_municipality_1527,083,CHP,Socoltenango
+stps_municipality_1528,083,HID,Zempoala
+stps_municipality_1529,083,JAL,Tala
+stps_municipality_1530,083,MEX,Temamatla
+stps_municipality_1531,083,MIC,Tancítaro
+stps_municipality_1532,083,OAX,San Agustín de las Juntas
+stps_municipality_1533,083,PUE,Ixtacamaxtitlán
+stps_municipality_1534,083,VER,Ixhuatlán de Madero
+stps_municipality_1535,083,YUC,Telchac Puerto
+stps_municipality_1536,084,CHP,Solosuchiapa
+stps_municipality_1537,084,HID,Zimapán
+stps_municipality_1538,084,JAL,Talpa de Allende
+stps_municipality_1539,084,MEX,Temascalapa
+stps_municipality_1540,084,MIC,Tangamandapio
+stps_municipality_1541,084,OAX,San Agustín Etla
+stps_municipality_1542,084,PUE,Ixtepec
+stps_municipality_1543,084,VER,Ixmatlahuacan
+stps_municipality_1544,084,YUC,Temax
+stps_municipality_1545,085,CHP,Soyaló
+stps_municipality_1546,085,JAL,Tamazula de Gordiano
+stps_municipality_1547,085,MEX,Temascalcingo
+stps_municipality_1548,085,MIC,Tangancícuaro
+stps_municipality_1549,085,OAX,San Agustín Loxicha
+stps_municipality_1550,085,PUE,Izúcar de Matamoros
+stps_municipality_1551,085,VER,Ixtaczoquitlán
+stps_municipality_1552,085,YUC,Temozón
+stps_municipality_1553,086,CHP,Suchiapa
+stps_municipality_1554,086,JAL,Tapalpa
+stps_municipality_1555,086,MEX,Temascaltepec
+stps_municipality_1556,086,MIC,Tanhuato
+stps_municipality_1557,086,OAX,San Agustín Tlacotepec
+stps_municipality_1558,086,PUE,Jalpan
+stps_municipality_1559,086,VER,Jalacingo
+stps_municipality_1560,086,YUC,Tepakán
+stps_municipality_1561,087,CHP,Suchiate
+stps_municipality_1562,087,JAL,Tecalitlán
+stps_municipality_1563,087,MEX,Temoaya
+stps_municipality_1564,087,MIC,Taretan
+stps_municipality_1565,087,OAX,San Agustín Yatareni
+stps_municipality_1566,087,PUE,Jolalpan
+stps_municipality_1567,087,VER,Xalapa
+stps_municipality_1568,087,YUC,Tetiz
+stps_municipality_1569,088,CHP,Sunuapa
+stps_municipality_1570,088,JAL,Tecolotlán
+stps_municipality_1571,088,MEX,Tenancingo
+stps_municipality_1572,088,MIC,Tarímbaro
+stps_municipality_1573,088,OAX,San Andrés Cabecera Nueva
+stps_municipality_1574,088,PUE,Jonotla
+stps_municipality_1575,088,VER,Jalcomulco
+stps_municipality_1576,088,YUC,Teya
+stps_municipality_1577,089,CHP,Tapachula
+stps_municipality_1578,089,JAL,Techaluta de Montenegro
+stps_municipality_1579,089,MEX,Tenango del Aire
+stps_municipality_1580,089,MIC,Tepalcatepec
+stps_municipality_1581,089,OAX,San Andrés Dinicuiti
+stps_municipality_1582,089,PUE,Jopala
+stps_municipality_1583,089,VER,Jáltipan
+stps_municipality_1584,089,YUC,Ticul
+stps_municipality_1585,090,CHP,Tapalapa
+stps_municipality_1586,090,JAL,Tenamaxtlán
+stps_municipality_1587,090,MEX,Tenango del Valle
+stps_municipality_1588,090,MIC,Tingambato
+stps_municipality_1589,090,OAX,San Andrés Huaxpaltepec
+stps_municipality_1590,090,PUE,Juan C. Bonilla
+stps_municipality_1591,090,VER,Jamapa
+stps_municipality_1592,090,YUC,Timucuy
+stps_municipality_1593,091,CHP,Tapilula
+stps_municipality_1594,091,JAL,Teocaltiche
+stps_municipality_1595,091,MEX,Teoloyucan
+stps_municipality_1596,091,MIC,Tingüindín
+stps_municipality_1597,091,OAX,San Andrés Huayápam
+stps_municipality_1598,091,PUE,Juan Galindo
+stps_municipality_1599,091,VER,Jesús Carranza
+stps_municipality_1600,091,YUC,Tinum
+stps_municipality_1601,092,CHP,Tecpatán
+stps_municipality_1602,092,JAL,Teocuitatlán de Corona
+stps_municipality_1603,092,MEX,Teotihuacán
+stps_municipality_1604,092,MIC,Tiquicheo de Nicolás Romero
+stps_municipality_1605,092,OAX,San Andrés Ixtlahuaca
+stps_municipality_1606,092,PUE,Juan N. Méndez
+stps_municipality_1607,092,VER,Xico
+stps_municipality_1608,092,YUC,Tixcacalcupul
+stps_municipality_1609,093,CHP,Tenejapa
+stps_municipality_1610,093,JAL,Tepatitlán de Morelos
+stps_municipality_1611,093,MEX,Tepetlaoxtoc
+stps_municipality_1612,093,MIC,Tlalpujahua
+stps_municipality_1613,093,OAX,San Andrés Lagunas
+stps_municipality_1614,093,PUE,Lafragua
+stps_municipality_1615,093,VER,Jilotepec
+stps_municipality_1616,093,YUC,Tixkokob
+stps_municipality_1617,094,CHP,Teopisca
+stps_municipality_1618,094,JAL,Tequila
+stps_municipality_1619,094,MEX,Tepetlixpa
+stps_municipality_1620,094,MIC,Tlazazalca
+stps_municipality_1621,094,OAX,San Andrés Nuxiño
+stps_municipality_1622,094,PUE,Libres
+stps_municipality_1623,094,VER,Juan Rodríguez Clara
+stps_municipality_1624,094,YUC,Tixmehuac
+stps_municipality_1625,095,JAL,Teuchitlán
+stps_municipality_1626,095,MEX,Tepotzotlán
+stps_municipality_1627,095,MIC,Tocumbo
+stps_municipality_1628,095,OAX,San Andrés Paxtlán
+stps_municipality_1629,095,PUE,La Magdalena Tlatlauquitepec
+stps_municipality_1630,095,VER,Juchique de Ferrer
+stps_municipality_1631,095,YUC,Tixpéhual
+stps_municipality_1632,096,CHP,Tila
+stps_municipality_1633,096,JAL,Tizapán el Alto
+stps_municipality_1634,096,MEX,Tequixquiac
+stps_municipality_1635,096,MIC,Tumbiscatío
+stps_municipality_1636,096,OAX,San Andrés Sinaxtla
+stps_municipality_1637,096,PUE,Mazapiltepec de Juárez
+stps_municipality_1638,096,VER,Landero y Coss
+stps_municipality_1639,096,YUC,Tizimín
+stps_municipality_1640,097,CHP,Tonalá
+stps_municipality_1641,097,JAL,Tlajomulco de Zúñiga
+stps_municipality_1642,097,MEX,Texcaltitlán
+stps_municipality_1643,097,MIC,Turicato
+stps_municipality_1644,097,OAX,San Andrés Solaga
+stps_municipality_1645,097,PUE,Mixtla
+stps_municipality_1646,097,VER,Lerdo de Tejada
+stps_municipality_1647,097,YUC,Tunkás
+stps_municipality_1648,098,CHP,Totolapa
+stps_municipality_1649,098,JAL,San Pedro Tlaquepaque
+stps_municipality_1650,098,MEX,Texcalyacac
+stps_municipality_1651,098,MIC,Tuxpan
+stps_municipality_1652,098,OAX,San Andrés Teotilálpam
+stps_municipality_1653,098,PUE,Molcaxac
+stps_municipality_1654,098,VER,Magdalena
+stps_municipality_1655,098,YUC,Tzucacab
+stps_municipality_1656,099,CHP,La Trinitaria
+stps_municipality_1657,099,JAL,Tolimán
+stps_municipality_1658,099,MEX,Texcoco
+stps_municipality_1659,099,MIC,Tuzantla
+stps_municipality_1660,099,OAX,San Andrés Tepetlapa
+stps_municipality_1661,099,PUE,Cañada Morelos
+stps_municipality_1662,099,VER,Maltrata
+stps_municipality_1663,099,YUC,Uayma
+stps_municipality_1664,100,CHP,Tumbalá
+stps_municipality_1665,100,JAL,Tomatlán
+stps_municipality_1666,100,MEX,Tezoyuca
+stps_municipality_1667,100,MIC,Tzintzuntzan
+stps_municipality_1668,100,OAX,San Andrés Yaá
+stps_municipality_1669,100,PUE,Naupan
+stps_municipality_1670,100,VER,Manlio Fabio Altamirano
+stps_municipality_1671,100,YUC,Ucú
+stps_municipality_1672,101,CHP,Tuxtla Gutiérrez
+stps_municipality_1673,101,JAL,Tonalá
+stps_municipality_1674,101,MEX,Tianguistenco
+stps_municipality_1675,101,MIC,Tzitzio
+stps_municipality_1676,101,OAX,San Andrés Zabache
+stps_municipality_1677,101,PUE,Nauzontla
+stps_municipality_1678,101,VER,Mariano Escobedo
+stps_municipality_1679,101,YUC,Umán
+stps_municipality_1680,102,CHP,Tuxtla Chico
+stps_municipality_1681,102,JAL,Tonaya
+stps_municipality_1682,102,MEX,Timilpan
+stps_municipality_1683,102,MIC,Uruapan
+stps_municipality_1684,102,OAX,San Andrés Zautla
+stps_municipality_1685,102,PUE,Nealtican
+stps_municipality_1686,102,VER,Martínez de la Torre
+stps_municipality_1687,102,YUC,Valladolid
+stps_municipality_1688,103,CHP,Tuzantán
+stps_municipality_1689,103,JAL,Tonila
+stps_municipality_1690,103,MEX,Tlalmanalco
+stps_municipality_1691,103,MIC,Venustiano Carranza
+stps_municipality_1692,103,OAX,San Antonino Castillo Velasco
+stps_municipality_1693,103,PUE,Nicolás Bravo
+stps_municipality_1694,103,VER,Mecatlán
+stps_municipality_1695,103,YUC,Xocchel
+stps_municipality_1696,104,CHP,Tzimol
+stps_municipality_1697,104,JAL,Totatiche
+stps_municipality_1698,104,MEX,Tlalnepantla de Baz
+stps_municipality_1699,104,MIC,Villamar
+stps_municipality_1700,104,OAX,San Antonino el Alto
+stps_municipality_1701,104,PUE,Nopalucan
+stps_municipality_1702,104,VER,Mecayapan
+stps_municipality_1703,104,YUC,Yaxcabá
+stps_municipality_1704,105,CHP,Unión Juárez
+stps_municipality_1705,105,JAL,Tototlán
+stps_municipality_1706,105,MEX,Tlatlaya
+stps_municipality_1707,105,MIC,Vista Hermosa
+stps_municipality_1708,105,OAX,San Antonino Monte Verde
+stps_municipality_1709,105,PUE,Ocotepec
+stps_municipality_1710,105,VER,Medellín
+stps_municipality_1711,105,YUC,Yaxkukul
+stps_municipality_1712,106,CHP,Venustiano Carranza
+stps_municipality_1713,106,JAL,Tuxcacuesco
+stps_municipality_1714,106,MEX,Toluca
+stps_municipality_1715,106,MIC,Yurécuaro
+stps_municipality_1716,106,OAX,San Antonio Acutla
+stps_municipality_1717,106,PUE,Ocoyucan
+stps_municipality_1718,106,VER,Miahuatlán
+stps_municipality_1719,106,YUC,Yobaín
+stps_municipality_1720,107,CHP,Villa Corzo
+stps_municipality_1721,107,JAL,Tuxcueca
+stps_municipality_1722,107,MEX,Tonatico
+stps_municipality_1723,107,MIC,Zacapu
+stps_municipality_1724,107,OAX,San Antonio de la Cal
+stps_municipality_1725,107,PUE,Olintla
+stps_municipality_1726,107,VER,Las Minas
+stps_municipality_1727,108,CHP,Villaflores
+stps_municipality_1728,108,JAL,Tuxpan
+stps_municipality_1729,108,MEX,Tultepec
+stps_municipality_1730,108,MIC,Zamora
+stps_municipality_1731,108,OAX,San Antonio Huitepec
+stps_municipality_1732,108,PUE,Oriental
+stps_municipality_1733,108,VER,Minatitlán
+stps_municipality_1734,109,CHP,Yajalón
+stps_municipality_1735,109,JAL,Unión de San Antonio
+stps_municipality_1736,109,MEX,Tultitlán
+stps_municipality_1737,109,MIC,Zináparo
+stps_municipality_1738,109,OAX,San Antonio Nanahuatípam
+stps_municipality_1739,109,PUE,Pahuatlán
+stps_municipality_1740,109,VER,Misantla
+stps_municipality_1741,110,CHP,San Lucas
+stps_municipality_1742,110,JAL,Unión de Tula
+stps_municipality_1743,110,MEX,Valle de Bravo
+stps_municipality_1744,110,MIC,Zinapécuaro
+stps_municipality_1745,110,OAX,San Antonio Sinicahua
+stps_municipality_1746,110,PUE,Palmar de Bravo
+stps_municipality_1747,110,VER,Mixtla de Altamirano
+stps_municipality_1748,111,CHP,Zinacantán
+stps_municipality_1749,111,JAL,Valle de Guadalupe
+stps_municipality_1750,111,MEX,Villa de Allende
+stps_municipality_1751,111,MIC,Ziracuaretiro
+stps_municipality_1752,111,OAX,San Antonio Tepetlapa
+stps_municipality_1753,111,PUE,Pantepec
+stps_municipality_1754,111,VER,Moloacán
+stps_municipality_1755,112,CHP,San Juan Cancuc
+stps_municipality_1756,112,JAL,Valle de Juárez
+stps_municipality_1757,112,MEX,Villa del Carbón
+stps_municipality_1758,112,MIC,Zitácuaro
+stps_municipality_1759,112,OAX,San Baltazar Chichicápam
+stps_municipality_1760,112,PUE,Petlalcingo
+stps_municipality_1761,112,VER,Naolinco
+stps_municipality_1762,113,CHP,Aldama
+stps_municipality_1763,113,JAL,San Gabriel
+stps_municipality_1764,113,MEX,Villa Guerrero
+stps_municipality_1765,113,MIC,José Sixto Verduzco
+stps_municipality_1766,113,OAX,San Baltazar Loxicha
+stps_municipality_1767,113,PUE,Piaxtla
+stps_municipality_1768,113,VER,Naranjal
+stps_municipality_1769,114,CHP,Benemérito de las Américas
+stps_municipality_1770,114,JAL,Villa Corona
+stps_municipality_1771,114,MEX,Villa Victoria
+stps_municipality_1772,114,OAX,San Baltazar Yatzachi el Bajo
+stps_municipality_1773,114,PUE,Puebla
+stps_municipality_1774,114,VER,Nautla
+stps_municipality_1775,115,CHP,Maravilla Tenejapa
+stps_municipality_1776,115,JAL,Villa Guerrero
+stps_municipality_1777,115,MEX,Xonacatlán
+stps_municipality_1778,115,OAX,San Bartolo Coyotepec
+stps_municipality_1779,115,PUE,Quecholac
+stps_municipality_1780,115,VER,Nogales
+stps_municipality_1781,116,CHP,Marqués de Comillas
+stps_municipality_1782,116,JAL,Villa Hidalgo
+stps_municipality_1783,116,MEX,Zacazonapan
+stps_municipality_1784,116,OAX,San Bartolomé Ayautla
+stps_municipality_1785,116,PUE,Quimixtlán
+stps_municipality_1786,116,VER,Oluta
+stps_municipality_1787,117,CHP,Montecristo de Guerrero
+stps_municipality_1788,117,JAL,Cañadas de Obregón
+stps_municipality_1789,117,MEX,Zacualpan
+stps_municipality_1790,117,OAX,San Bartolomé Loxicha
+stps_municipality_1791,117,PUE,Rafael Lara Grajales
+stps_municipality_1792,117,VER,Omealca
+stps_municipality_1793,118,CHP,San Andrés Duraznal
+stps_municipality_1794,118,JAL,Yahualica de González Gallo
+stps_municipality_1795,118,MEX,Zinacantepec
+stps_municipality_1796,118,OAX,San Bartolomé Quialana
+stps_municipality_1797,118,PUE,Los Reyes de Juárez
+stps_municipality_1798,118,VER,Orizaba
+stps_municipality_1799,119,CHP,Santiago el Pinar
+stps_municipality_1800,119,JAL,Zacoalco de Torres
+stps_municipality_1801,119,MEX,Zumpahuacán
+stps_municipality_1802,119,OAX,San Bartolomé Yucuañe
+stps_municipality_1803,119,PUE,San Andrés Cholula
+stps_municipality_1804,119,VER,Otatitlán
+stps_municipality_1805,120,JAL,Zapopan
+stps_municipality_1806,120,MEX,Zumpango
+stps_municipality_1807,120,OAX,San Bartolomé Zoogocho
+stps_municipality_1808,120,PUE,San Antonio Cañada
+stps_municipality_1809,120,VER,Oteapan
+stps_municipality_1810,121,JAL,Zapotiltic
+stps_municipality_1811,121,MEX,Cuautitlán Izcalli
+stps_municipality_1812,121,OAX,San Bartolo Soyaltepec
+stps_municipality_1813,121,PUE,San Diego la Mesa Tochimiltzingo
+stps_municipality_1814,121,VER,Ozuluama de Mascareñas
+stps_municipality_1815,122,JAL,Zapotitlán de Vadillo
+stps_municipality_1816,122,MEX,Valle de Chalco Solidaridad
+stps_municipality_1817,122,OAX,San Bartolo Yautepec
+stps_municipality_1818,122,PUE,San Felipe Teotlalcingo
+stps_municipality_1819,122,VER,Pajapan
+stps_municipality_1820,123,JAL,Zapotlán del Rey
+stps_municipality_1821,123,MEX,Luvianos
+stps_municipality_1822,123,OAX,San Bernardo Mixtepec
+stps_municipality_1823,123,PUE,San Felipe Tepatlán
+stps_municipality_1824,123,VER,Pánuco
+stps_municipality_1825,124,JAL,Zapotlanejo
+stps_municipality_1826,124,MEX,San José del Rincón
+stps_municipality_1827,124,OAX,San Blas Atempa
+stps_municipality_1828,124,PUE,San Gabriel Chilac
+stps_municipality_1829,124,VER,Papantla
+stps_municipality_1830,125,JAL,San Ignacio Cerro Gordo
+stps_municipality_1831,125,MEX,Tonanitla
+stps_municipality_1832,125,OAX,San Carlos Yautepec
+stps_municipality_1833,125,PUE,San Gregorio Atzompa
+stps_municipality_1834,125,VER,Paso del Macho
+stps_municipality_1835,126,OAX,San Cristóbal Amatlán
+stps_municipality_1836,126,PUE,San Jerónimo Tecuanipan
+stps_municipality_1837,126,VER,Paso de Ovejas
+stps_municipality_1838,127,OAX,San Cristóbal Amoltepec
+stps_municipality_1839,127,PUE,San Jerónimo Xayacatlán
+stps_municipality_1840,127,VER,La Perla
+stps_municipality_1841,128,OAX,San Cristóbal Lachirioag
+stps_municipality_1842,128,PUE,San José Chiapa
+stps_municipality_1843,128,VER,Perote
+stps_municipality_1844,129,OAX,San Cristóbal Suchixtlahuaca
+stps_municipality_1845,129,PUE,San José Miahuatlán
+stps_municipality_1846,129,VER,Platón Sánchez
+stps_municipality_1847,130,OAX,San Dionisio del Mar
+stps_municipality_1848,130,PUE,San Juan Atenco
+stps_municipality_1849,130,VER,Playa Vicente
+stps_municipality_1850,131,OAX,San Dionisio Ocotepec
+stps_municipality_1851,131,PUE,San Juan Atzompa
+stps_municipality_1852,131,VER,Poza Rica de Hidalgo
+stps_municipality_1853,132,OAX,San Dionisio Ocotlán
+stps_municipality_1854,132,PUE,San Martín Texmelucan
+stps_municipality_1855,132,VER,Las Vigas de Ramírez
+stps_municipality_1856,133,OAX,San Esteban Atatlahuca
+stps_municipality_1857,133,PUE,San Martín Totoltepec
+stps_municipality_1858,133,VER,Pueblo Viejo
+stps_municipality_1859,134,OAX,San Felipe Jalapa de Díaz
+stps_municipality_1860,134,PUE,San Matías Tlalancaleca
+stps_municipality_1861,134,VER,Puente Nacional
+stps_municipality_1862,135,OAX,San Felipe Tejalápam
+stps_municipality_1863,135,PUE,San Miguel Ixitlán
+stps_municipality_1864,135,VER,Rafael Delgado
+stps_municipality_1865,136,OAX,San Felipe Usila
+stps_municipality_1866,136,PUE,San Miguel Xoxtla
+stps_municipality_1867,136,VER,Rafael Lucio
+stps_municipality_1868,137,OAX,San Francisco Cahuacuá
+stps_municipality_1869,137,PUE,San Nicolás Buenos Aires
+stps_municipality_1870,137,VER,Los Reyes
+stps_municipality_1871,138,OAX,San Francisco Cajonos
+stps_municipality_1872,138,PUE,San Nicolás de los Ranchos
+stps_municipality_1873,138,VER,Río Blanco
+stps_municipality_1874,139,OAX,San Francisco Chapulapa
+stps_municipality_1875,139,PUE,San Pablo Anicano
+stps_municipality_1876,139,VER,Saltabarranca
+stps_municipality_1877,140,OAX,San Francisco Chindúa
+stps_municipality_1878,140,PUE,San Pedro Cholula
+stps_municipality_1879,140,VER,San Andrés Tenejapan
+stps_municipality_1880,141,OAX,San Francisco del Mar
+stps_municipality_1881,141,PUE,San Pedro Yeloixtlahuaca
+stps_municipality_1882,141,VER,San Andrés Tuxtla
+stps_municipality_1883,142,OAX,San Francisco Huehuetlán
+stps_municipality_1884,142,PUE,San Salvador el Seco
+stps_municipality_1885,142,VER,San Juan Evangelista
+stps_municipality_1886,143,OAX,San Francisco Ixhuatán
+stps_municipality_1887,143,PUE,San Salvador el Verde
+stps_municipality_1888,143,VER,Santiago Tuxtla
+stps_municipality_1889,144,OAX,San Francisco Jaltepetongo
+stps_municipality_1890,144,PUE,San Salvador Huixcolotla
+stps_municipality_1891,144,VER,Sayula de Alemán
+stps_municipality_1892,145,OAX,San Francisco Lachigoló
+stps_municipality_1893,145,PUE,San Sebastián Tlacotepec
+stps_municipality_1894,145,VER,Soconusco
+stps_municipality_1895,146,OAX,San Francisco Logueche
+stps_municipality_1896,146,PUE,Santa Catarina Tlaltempan
+stps_municipality_1897,146,VER,Sochiapa
+stps_municipality_1898,147,OAX,San Francisco Nuxaño
+stps_municipality_1899,147,PUE,Santa Inés Ahuatempan
+stps_municipality_1900,147,VER,Soledad Atzompa
+stps_municipality_1901,148,OAX,San Francisco Ozolotepec
+stps_municipality_1902,148,PUE,Santa Isabel Cholula
+stps_municipality_1903,148,VER,Soledad de Doblado
+stps_municipality_1904,149,OAX,San Francisco Sola
+stps_municipality_1905,149,PUE,Santiago Miahuatlán
+stps_municipality_1906,149,VER,Soteapan
+stps_municipality_1907,150,OAX,San Francisco Telixtlahuaca
+stps_municipality_1908,150,PUE,Huehuetlán el Grande
+stps_municipality_1909,150,VER,Tamalín
+stps_municipality_1910,151,OAX,San Francisco Teopan
+stps_municipality_1911,151,PUE,Santo Tomás Hueyotlipan
+stps_municipality_1912,151,VER,Tamiahua
+stps_municipality_1913,152,OAX,San Francisco Tlapancingo
+stps_municipality_1914,152,PUE,Soltepec
+stps_municipality_1915,152,VER,Tampico Alto
+stps_municipality_1916,153,OAX,San Gabriel Mixtepec
+stps_municipality_1917,153,PUE,Tecali de Herrera
+stps_municipality_1918,153,VER,Tancoco
+stps_municipality_1919,154,OAX,San Ildefonso Amatlán
+stps_municipality_1920,154,PUE,Tecamachalco
+stps_municipality_1921,154,VER,Tantima
+stps_municipality_1922,155,OAX,San Ildefonso Sola
+stps_municipality_1923,155,PUE,Tecomatlán
+stps_municipality_1924,155,VER,Tantoyuca
+stps_municipality_1925,156,OAX,San Ildefonso Villa Alta
+stps_municipality_1926,156,PUE,Tehuacán
+stps_municipality_1927,156,VER,Tatatila
+stps_municipality_1928,157,OAX,San Jacinto Amilpas
+stps_municipality_1929,157,PUE,Tehuitzingo
+stps_municipality_1930,157,VER,Castillo de Teayo
+stps_municipality_1931,158,OAX,San Jacinto Tlacotepec
+stps_municipality_1932,158,PUE,Tenampulco
+stps_municipality_1933,158,VER,Tecolutla
+stps_municipality_1934,159,OAX,San Jerónimo Coatlán
+stps_municipality_1935,159,PUE,Teopantlán
+stps_municipality_1936,159,VER,Tehuipango
+stps_municipality_1937,160,OAX,San Jerónimo Silacayoapilla
+stps_municipality_1938,160,PUE,Teotlalco
+stps_municipality_1939,160,VER,Álamo Temapache
+stps_municipality_1940,161,OAX,San Jerónimo Sosola
+stps_municipality_1941,161,PUE,Tepanco de López
+stps_municipality_1942,161,VER,Tempoal
+stps_municipality_1943,162,OAX,San Jerónimo Taviche
+stps_municipality_1944,162,PUE,Tepango de Rodríguez
+stps_municipality_1945,162,VER,Tenampa
+stps_municipality_1946,163,OAX,San Jerónimo Tecóatl
+stps_municipality_1947,163,PUE,Tepatlaxco de Hidalgo
+stps_municipality_1948,163,VER,Tenochtitlán
+stps_municipality_1949,164,OAX,San Jorge Nuchita
+stps_municipality_1950,164,PUE,Tepeaca
+stps_municipality_1951,164,VER,Teocelo
+stps_municipality_1952,165,OAX,San José Ayuquila
+stps_municipality_1953,165,PUE,Tepemaxalco
+stps_municipality_1954,165,VER,Tepatlaxco
+stps_municipality_1955,166,OAX,San José Chiltepec
+stps_municipality_1956,166,PUE,Tepeojuma
+stps_municipality_1957,166,VER,Tepetlán
+stps_municipality_1958,167,OAX,San José del Peñasco
+stps_municipality_1959,167,PUE,Tepetzintla
+stps_municipality_1960,167,VER,Tepetzintla
+stps_municipality_1961,168,OAX,San José Estancia Grande
+stps_municipality_1962,168,PUE,Tepexco
+stps_municipality_1963,168,VER,Tequila
+stps_municipality_1964,169,OAX,San José Independencia
+stps_municipality_1965,169,PUE,Tepexi de Rodríguez
+stps_municipality_1966,169,VER,José Azueta
+stps_municipality_1967,170,OAX,San José Lachiguiri
+stps_municipality_1968,170,PUE,Tepeyahualco
+stps_municipality_1969,170,VER,Texcatepec
+stps_municipality_1970,171,OAX,San José Tenango
+stps_municipality_1971,171,PUE,Tepeyahualco de Cuauhtémoc
+stps_municipality_1972,171,VER,Texhuacán
+stps_municipality_1973,172,OAX,San Juan Achiutla
+stps_municipality_1974,172,PUE,Tetela de Ocampo
+stps_municipality_1975,172,VER,Texistepec
+stps_municipality_1976,173,OAX,San Juan Atepec
+stps_municipality_1977,173,PUE,Teteles de Avila Castillo
+stps_municipality_1978,173,VER,Tezonapa
+stps_municipality_1979,174,OAX,Ánimas Trujano
+stps_municipality_1980,174,PUE,Teziutlán
+stps_municipality_1981,174,VER,Tierra Blanca
+stps_municipality_1982,175,OAX,San Juan Bautista Atatlahuca
+stps_municipality_1983,175,PUE,Tianguismanalco
+stps_municipality_1984,175,VER,Tihuatlán
+stps_municipality_1985,176,OAX,San Juan Bautista Coixtlahuaca
+stps_municipality_1986,176,PUE,Tilapa
+stps_municipality_1987,176,VER,Tlacojalpan
+stps_municipality_1988,177,OAX,San Juan Bautista Cuicatlán
+stps_municipality_1989,177,PUE,Tlacotepec de Benito Juárez
+stps_municipality_1990,177,VER,Tlacolulan
+stps_municipality_1991,178,OAX,San Juan Bautista Guelache
+stps_municipality_1992,178,PUE,Tlacuilotepec
+stps_municipality_1993,178,VER,Tlacotalpan
+stps_municipality_1994,179,OAX,San Juan Bautista Jayacatlán
+stps_municipality_1995,179,PUE,Tlachichuca
+stps_municipality_1996,179,VER,Tlacotepec de Mejía
+stps_municipality_1997,180,OAX,San Juan Bautista Lo de Soto
+stps_municipality_1998,180,PUE,Tlahuapan
+stps_municipality_1999,180,VER,Tlachichilco
+stps_municipality_2000,181,OAX,San Juan Bautista Suchitepec
+stps_municipality_2001,181,PUE,Tlaltenango
+stps_municipality_2002,181,VER,Tlalixcoyan
+stps_municipality_2003,182,OAX,San Juan Bautista Tlacoatzintepec
+stps_municipality_2004,182,PUE,Tlanepantla
+stps_municipality_2005,182,VER,Tlalnelhuayocan
+stps_municipality_2006,183,OAX,San Juan Bautista Tlachichilco
+stps_municipality_2007,183,PUE,Tlaola
+stps_municipality_2008,183,VER,Tlapacoyan
+stps_municipality_2009,184,OAX,San Juan Bautista Tuxtepec
+stps_municipality_2010,184,PUE,Tlapacoya
+stps_municipality_2011,184,VER,Tlaquilpa
+stps_municipality_2012,185,OAX,San Juan Cacahuatepec
+stps_municipality_2013,185,PUE,Tlapanalá
+stps_municipality_2014,185,VER,Tlilapan
+stps_municipality_2015,186,OAX,San Juan Cieneguilla
+stps_municipality_2016,186,PUE,Tlatlauquitepec
+stps_municipality_2017,186,VER,Tomatlán
+stps_municipality_2018,187,OAX,San Juan Coatzóspam
+stps_municipality_2019,187,PUE,Tlaxco
+stps_municipality_2020,187,VER,Tonayán
+stps_municipality_2021,188,OAX,San Juan Colorado
+stps_municipality_2022,188,PUE,Tochimilco
+stps_municipality_2023,188,VER,Totutla
+stps_municipality_2024,189,OAX,San Juan Comaltepec
+stps_municipality_2025,189,PUE,Tochtepec
+stps_municipality_2026,189,VER,Tuxpan
+stps_municipality_2027,190,OAX,San Juan Cotzocón
+stps_municipality_2028,190,PUE,Totoltepec de Guerrero
+stps_municipality_2029,190,VER,Tuxtilla
+stps_municipality_2030,191,OAX,San Juan Chicomezúchil
+stps_municipality_2031,191,PUE,Tulcingo
+stps_municipality_2032,191,VER,Ursulo Galván
+stps_municipality_2033,192,OAX,San Juan Chilateca
+stps_municipality_2034,192,PUE,Tuzamapan de Galeana
+stps_municipality_2035,192,VER,Vega de Alatorre
+stps_municipality_2036,193,OAX,San Juan del Estado
+stps_municipality_2037,193,PUE,Tzicatlacoyan
+stps_municipality_2038,193,VER,Veracruz
+stps_municipality_2039,194,OAX,San Juan del Río
+stps_municipality_2040,194,PUE,Venustiano Carranza
+stps_municipality_2041,194,VER,Villa Aldama
+stps_municipality_2042,195,OAX,San Juan Diuxi
+stps_municipality_2043,195,PUE,Vicente Guerrero
+stps_municipality_2044,195,VER,Xoxocotla
+stps_municipality_2045,196,OAX,San Juan Evangelista Analco
+stps_municipality_2046,196,PUE,Xayacatlán de Bravo
+stps_municipality_2047,196,VER,Yanga
+stps_municipality_2048,197,OAX,San Juan Guelavía
+stps_municipality_2049,197,PUE,Xicotepec
+stps_municipality_2050,197,VER,Yecuatla
+stps_municipality_2051,198,OAX,San Juan Guichicovi
+stps_municipality_2052,198,PUE,Xicotlán
+stps_municipality_2053,198,VER,Zacualpan
+stps_municipality_2054,199,OAX,San Juan Ihualtepec
+stps_municipality_2055,199,PUE,Xiutetelco
+stps_municipality_2056,199,VER,Zaragoza
+stps_municipality_2057,200,OAX,San Juan Juquila Mixes
+stps_municipality_2058,200,PUE,Xochiapulco
+stps_municipality_2059,200,VER,Zentla
+stps_municipality_2060,201,OAX,San Juan Juquila Vijanos
+stps_municipality_2061,201,PUE,Xochiltepec
+stps_municipality_2062,201,VER,Zongolica
+stps_municipality_2063,202,OAX,San Juan Lachao
+stps_municipality_2064,202,PUE,Xochitlán de Vicente Suárez
+stps_municipality_2065,202,VER,Zontecomatlán de López y Fuentes
+stps_municipality_2066,203,OAX,San Juan Lachigalla
+stps_municipality_2067,203,PUE,Xochitlán Todos Santos
+stps_municipality_2068,203,VER,Zozocolco de Hidalgo
+stps_municipality_2069,204,OAX,San Juan Lajarcia
+stps_municipality_2070,204,PUE,Yaonáhuac
+stps_municipality_2071,204,VER,Agua Dulce
+stps_municipality_2072,205,OAX,San Juan Lalana
+stps_municipality_2073,205,PUE,Yehualtepec
+stps_municipality_2074,205,VER,El Higo
+stps_municipality_2075,206,OAX,San Juan de los Cués
+stps_municipality_2076,206,PUE,Zacapala
+stps_municipality_2077,206,VER,Nanchital de Lázaro Cárdenas del Río
+stps_municipality_2078,207,OAX,San Juan Mazatlán
+stps_municipality_2079,207,PUE,Zacapoaxtla
+stps_municipality_2080,207,VER,Tres Valles
+stps_municipality_2081,208,OAX,San Juan Mixtepec -Dto. 08 -
+stps_municipality_2082,208,PUE,Zacatlán
+stps_municipality_2083,208,VER,Carlos A. Carrillo
+stps_municipality_2084,209,OAX,San Juan Mixtepec -Dto. 26 -
+stps_municipality_2085,209,PUE,Zapotitlán
+stps_municipality_2086,209,VER,Tatahuicapan de Juárez
+stps_municipality_2087,210,OAX,San Juan Ñumí
+stps_municipality_2088,210,PUE,Zapotitlán de Méndez
+stps_municipality_2089,210,VER,Uxpanapa
+stps_municipality_2090,211,OAX,San Juan Ozolotepec
+stps_municipality_2091,211,PUE,Zaragoza
+stps_municipality_2092,211,VER,San Rafael
+stps_municipality_2093,212,OAX,San Juan Petlapa
+stps_municipality_2094,212,PUE,Zautla
+stps_municipality_2095,212,VER,Santiago Sochiapan
+stps_municipality_2096,213,OAX,San Juan Quiahije
+stps_municipality_2097,213,PUE,Zihuateutla
+stps_municipality_2098,214,OAX,San Juan Quiotepec
+stps_municipality_2099,214,PUE,Zinacatepec
+stps_municipality_2100,215,OAX,San Juan Sayultepec
+stps_municipality_2101,215,PUE,Zongozotla
+stps_municipality_2102,216,OAX,San Juan Tabaá
+stps_municipality_2103,216,PUE,Zoquiapan
+stps_municipality_2104,217,OAX,San Juan Tamazola
+stps_municipality_2105,217,PUE,Zoquitlán
+stps_municipality_2106,218,OAX,San Juan Teita
+stps_municipality_2107,219,OAX,San Juan Teitipac
+stps_municipality_2108,220,OAX,San Juan Tepeuxila
+stps_municipality_2109,221,OAX,San Juan Teposcolula
+stps_municipality_2110,222,OAX,San Juan Yaeé
+stps_municipality_2111,223,OAX,San Juan Yatzona
+stps_municipality_2112,224,OAX,San Juan Yucuita
+stps_municipality_2113,225,OAX,San Lorenzo
+stps_municipality_2114,226,OAX,San Lorenzo Albarradas
+stps_municipality_2115,227,OAX,San Lorenzo Cacaotepec
+stps_municipality_2116,228,OAX,San Lorenzo Cuaunecuiltitla
+stps_municipality_2117,229,OAX,San Lorenzo Texmelúcan
+stps_municipality_2118,230,OAX,San Lorenzo Victoria
+stps_municipality_2119,231,OAX,San Lucas Camotlán
+stps_municipality_2120,232,OAX,San Lucas Ojitlán
+stps_municipality_2121,233,OAX,San Lucas Quiaviní
+stps_municipality_2122,234,OAX,San Lucas Zoquiápam
+stps_municipality_2123,235,OAX,San Luis Amatlán
+stps_municipality_2124,236,OAX,San Marcial Ozolotepec
+stps_municipality_2125,237,OAX,San Marcos Arteaga
+stps_municipality_2126,238,OAX,San Martín de los Cansecos
+stps_municipality_2127,239,OAX,San Martín Huamelúlpam
+stps_municipality_2128,240,OAX,San Martín Itunyoso
+stps_municipality_2129,241,OAX,San Martín Lachilá
+stps_municipality_2130,242,OAX,San Martín Peras
+stps_municipality_2131,243,OAX,San Martín Tilcajete
+stps_municipality_2132,244,OAX,San Martín Toxpalan
+stps_municipality_2133,245,OAX,San Martín Zacatepec
+stps_municipality_2134,246,OAX,San Mateo Cajonos
+stps_municipality_2135,247,OAX,Capulálpam de Méndez
+stps_municipality_2136,248,OAX,San Mateo del Mar
+stps_municipality_2137,249,OAX,San Mateo Yoloxochitlán
+stps_municipality_2138,250,OAX,San Mateo Etlatongo
+stps_municipality_2139,251,OAX,San Mateo Nejápam
+stps_municipality_2140,252,OAX,San Mateo Peñasco
+stps_municipality_2141,253,OAX,San Mateo Piñas
+stps_municipality_2142,254,OAX,San Mateo Río Hondo
+stps_municipality_2143,255,OAX,San Mateo Sindihui
+stps_municipality_2144,256,OAX,San Mateo Tlapiltepec
+stps_municipality_2145,257,OAX,San Melchor Betaza
+stps_municipality_2146,258,OAX,San Miguel Achiutla
+stps_municipality_2147,259,OAX,San Miguel Ahuehuetitlán
+stps_municipality_2148,260,OAX,San Miguel Aloápam
+stps_municipality_2149,261,OAX,San Miguel Amatitlán
+stps_municipality_2150,262,OAX,San Miguel Amatlán
+stps_municipality_2151,263,OAX,San Miguel Coatlán
+stps_municipality_2152,264,OAX,San Miguel Chicahua
+stps_municipality_2153,265,OAX,San Miguel Chimalapa
+stps_municipality_2154,266,OAX,San Miguel del Puerto
+stps_municipality_2155,267,OAX,San Miguel del Río
+stps_municipality_2156,268,OAX,San Miguel Ejutla
+stps_municipality_2157,269,OAX,San Miguel el Grande
+stps_municipality_2158,270,OAX,San Miguel Huautla
+stps_municipality_2159,271,OAX,San Miguel Mixtepec
+stps_municipality_2160,272,OAX,San Miguel Panixtlahuaca
+stps_municipality_2161,273,OAX,San Miguel Peras
+stps_municipality_2162,274,OAX,San Miguel Piedras
+stps_municipality_2163,275,OAX,San Miguel Quetzaltepec
+stps_municipality_2164,276,OAX,San Miguel Santa Flor
+stps_municipality_2165,277,OAX,Villa Sola de Vega
+stps_municipality_2166,278,OAX,San Miguel Soyaltepec
+stps_municipality_2167,279,OAX,San Miguel Suchixtepec
+stps_municipality_2168,280,OAX,Villa Talea de Castro
+stps_municipality_2169,281,OAX,San Miguel Tecomatlán
+stps_municipality_2170,282,OAX,San Miguel Tenango
+stps_municipality_2171,283,OAX,San Miguel Tequixtepec
+stps_municipality_2172,284,OAX,San Miguel Tilquiápam
+stps_municipality_2173,285,OAX,San Miguel Tlacamama
+stps_municipality_2174,286,OAX,San Miguel Tlacotepec
+stps_municipality_2175,287,OAX,San Miguel Tulancingo
+stps_municipality_2176,288,OAX,San Miguel Yotao
+stps_municipality_2177,289,OAX,San Nicolás
+stps_municipality_2178,290,OAX,San Nicolás Hidalgo
+stps_municipality_2179,291,OAX,San Pablo Coatlán
+stps_municipality_2180,292,OAX,San Pablo Cuatro Venados
+stps_municipality_2181,293,OAX,San Pablo Etla
+stps_municipality_2182,294,OAX,San Pablo Huitzo
+stps_municipality_2183,295,OAX,San Pablo Huixtepec
+stps_municipality_2184,296,OAX,San Pablo Macuiltianguis
+stps_municipality_2185,297,OAX,San Pablo Tijaltepec
+stps_municipality_2186,298,OAX,San Pablo Villa de Mitla
+stps_municipality_2187,299,OAX,San Pablo Yaganiza
+stps_municipality_2188,300,OAX,San Pedro Amuzgos
+stps_municipality_2189,301,OAX,San Pedro Apóstol
+stps_municipality_2190,302,OAX,San Pedro Atoyac
+stps_municipality_2191,303,OAX,San Pedro Cajonos
+stps_municipality_2192,304,OAX,San Pedro Coxcaltepec Cántaros
+stps_municipality_2193,305,OAX,San Pedro Comitancillo
+stps_municipality_2194,306,OAX,San Pedro el Alto
+stps_municipality_2195,307,OAX,San Pedro Huamelula
+stps_municipality_2196,308,OAX,San Pedro Huilotepec
+stps_municipality_2197,309,OAX,San Pedro Ixcatlán
+stps_municipality_2198,310,OAX,San Pedro Ixtlahuaca
+stps_municipality_2199,311,OAX,San Pedro Jaltepetongo
+stps_municipality_2200,312,OAX,San Pedro Jicayán
+stps_municipality_2201,313,OAX,San Pedro Jocotipac
+stps_municipality_2202,314,OAX,San Pedro Juchatengo
+stps_municipality_2203,315,OAX,San Pedro Mártir
+stps_municipality_2204,316,OAX,San Pedro Mártir Quiechapa
+stps_municipality_2205,317,OAX,San Pedro Mártir Yucuxaco
+stps_municipality_2206,318,OAX,San Pedro Mixtepec -Dto. 22 -
+stps_municipality_2207,319,OAX,San Pedro Mixtepec -Dto. 26 -
+stps_municipality_2208,320,OAX,San Pedro Molinos
+stps_municipality_2209,321,OAX,San Pedro Nopala
+stps_municipality_2210,322,OAX,San Pedro Ocopetatillo
+stps_municipality_2211,323,OAX,San Pedro Ocotepec
+stps_municipality_2212,324,OAX,San Pedro Pochutla
+stps_municipality_2213,325,OAX,San Pedro Quiatoni
+stps_municipality_2214,326,OAX,San Pedro Sochiápam
+stps_municipality_2215,327,OAX,San Pedro Tapanatepec
+stps_municipality_2216,328,OAX,San Pedro Taviche
+stps_municipality_2217,329,OAX,San Pedro Teozacoalco
+stps_municipality_2218,330,OAX,San Pedro Teutila
+stps_municipality_2219,331,OAX,San Pedro Tidaá
+stps_municipality_2220,332,OAX,San Pedro Topiltepec
+stps_municipality_2221,333,OAX,San Pedro Totolápam
+stps_municipality_2222,334,OAX,Villa de Tututepec de Melchor Ocampo
+stps_municipality_2223,335,OAX,San Pedro Yaneri
+stps_municipality_2224,336,OAX,San Pedro Yólox
+stps_municipality_2225,337,OAX,San Pedro y San Pablo Ayutla
+stps_municipality_2226,338,OAX,Villa de Etla
+stps_municipality_2227,339,OAX,San Pedro y San Pablo Teposcolula
+stps_municipality_2228,340,OAX,San Pedro y San Pablo Tequixtepec
+stps_municipality_2229,341,OAX,San Pedro Yucunama
+stps_municipality_2230,342,OAX,San Raymundo Jalpan
+stps_municipality_2231,343,OAX,San Sebastián Abasolo
+stps_municipality_2232,344,OAX,San Sebastián Coatlán
+stps_municipality_2233,345,OAX,San Sebastián Ixcapa
+stps_municipality_2234,346,OAX,San Sebastián Nicananduta
+stps_municipality_2235,347,OAX,San Sebastián Río Hondo
+stps_municipality_2236,348,OAX,San Sebastián Tecomaxtlahuaca
+stps_municipality_2237,349,OAX,San Sebastián Teitipac
+stps_municipality_2238,350,OAX,San Sebastián Tutla
+stps_municipality_2239,351,OAX,San Simón Almolongas
+stps_municipality_2240,352,OAX,San Simón Zahuatlán
+stps_municipality_2241,353,OAX,Santa Ana
+stps_municipality_2242,354,OAX,Santa Ana Ateixtlahuaca
+stps_municipality_2243,355,OAX,Santa Ana Cuauhtémoc
+stps_municipality_2244,356,OAX,Santa Ana del Valle
+stps_municipality_2245,357,OAX,Santa Ana Tavela
+stps_municipality_2246,358,OAX,Santa Ana Tlapacoyan
+stps_municipality_2247,359,OAX,Santa Ana Yareni
+stps_municipality_2248,360,OAX,Santa Ana Zegache
+stps_municipality_2249,361,OAX,Santa Catalina Quierí
+stps_municipality_2250,362,OAX,Santa Catarina Cuixtla
+stps_municipality_2251,363,OAX,Santa Catarina Ixtepeji
+stps_municipality_2252,364,OAX,Santa Catarina Juquila
+stps_municipality_2253,365,OAX,Santa Catarina Lachatao
+stps_municipality_2254,366,OAX,Santa Catarina Loxicha
+stps_municipality_2255,367,OAX,Santa Catarina Mechoacán
+stps_municipality_2256,368,OAX,Santa Catarina Minas
+stps_municipality_2257,369,OAX,Santa Catarina Quiané
+stps_municipality_2258,370,OAX,Santa Catarina Tayata
+stps_municipality_2259,371,OAX,Santa Catarina Ticuá
+stps_municipality_2260,372,OAX,Santa Catarina Yosonotú
+stps_municipality_2261,373,OAX,Santa Catarina Zapoquila
+stps_municipality_2262,374,OAX,Santa Cruz Acatepec
+stps_municipality_2263,375,OAX,Santa Cruz Amilpas
+stps_municipality_2264,376,OAX,Santa Cruz de Bravo
+stps_municipality_2265,377,OAX,Santa Cruz Itundujia
+stps_municipality_2266,378,OAX,Santa Cruz Mixtepec
+stps_municipality_2267,379,OAX,Santa Cruz Nundaco
+stps_municipality_2268,380,OAX,Santa Cruz Papalutla
+stps_municipality_2269,381,OAX,Santa Cruz Tacache de Mina
+stps_municipality_2270,382,OAX,Santa Cruz Tacahua
+stps_municipality_2271,383,OAX,Santa Cruz Tayata
+stps_municipality_2272,384,OAX,Santa Cruz Xitla
+stps_municipality_2273,385,OAX,Santa Cruz Xoxocotlán
+stps_municipality_2274,386,OAX,Santa Cruz Zenzontepec
+stps_municipality_2275,387,OAX,Santa Gertrudis
+stps_municipality_2276,388,OAX,Santa Inés del Monte
+stps_municipality_2277,389,OAX,Santa Inés Yatzeche
+stps_municipality_2278,390,OAX,Santa Lucía del Camino
+stps_municipality_2279,391,OAX,Santa Lucía Miahuatlán
+stps_municipality_2280,392,OAX,Santa Lucía Monteverde
+stps_municipality_2281,393,OAX,Santa Lucía Ocotlán
+stps_municipality_2282,394,OAX,Santa María Alotepec
+stps_municipality_2283,395,OAX,Santa María Apazco
+stps_municipality_2284,396,OAX,Santa María la Asunción
+stps_municipality_2285,397,OAX,Heroica Ciudad de Tlaxiaco
+stps_municipality_2286,398,OAX,Ayoquezco de Aldama
+stps_municipality_2287,399,OAX,Santa María Atzompa
+stps_municipality_2288,400,OAX,Santa María Camotlán
+stps_municipality_2289,401,OAX,Santa María Colotepec
+stps_municipality_2290,402,OAX,Santa María Cortijo
+stps_municipality_2291,403,OAX,Santa María Coyotepec
+stps_municipality_2292,404,OAX,Santa María Chachoápam
+stps_municipality_2293,405,OAX,Villa de Chilapa de Díaz
+stps_municipality_2294,406,OAX,Santa María Chilchotla
+stps_municipality_2295,407,OAX,Santa María Chimalapa
+stps_municipality_2296,408,OAX,Santa María del Rosario
+stps_municipality_2297,409,OAX,Santa María del Tule
+stps_municipality_2298,410,OAX,Santa María Ecatepec
+stps_municipality_2299,411,OAX,Santa María Guelacé
+stps_municipality_2300,412,OAX,Santa María Guienagati
+stps_municipality_2301,413,OAX,Santa María Huatulco
+stps_municipality_2302,414,OAX,Santa María Huazolotitlán
+stps_municipality_2303,415,OAX,Santa María Ipalapa
+stps_municipality_2304,416,OAX,Santa María Ixcatlán
+stps_municipality_2305,417,OAX,Santa María Jacatepec
+stps_municipality_2306,418,OAX,Santa María Jalapa del Marqués
+stps_municipality_2307,419,OAX,Santa María Jaltianguis
+stps_municipality_2308,420,OAX,Santa María Lachixío
+stps_municipality_2309,421,OAX,Santa María Mixtequilla
+stps_municipality_2310,422,OAX,Santa María Nativitas
+stps_municipality_2311,423,OAX,Santa María Nduayaco
+stps_municipality_2312,424,OAX,Santa María Ozolotepec
+stps_municipality_2313,425,OAX,Santa María Pápalo
+stps_municipality_2314,426,OAX,Santa María Peñoles
+stps_municipality_2315,427,OAX,Santa María Petapa
+stps_municipality_2316,428,OAX,Santa María Quiegolani
+stps_municipality_2317,429,OAX,Santa María Sola
+stps_municipality_2318,430,OAX,Santa María Tataltepec
+stps_municipality_2319,431,OAX,Santa María Tecomavaca
+stps_municipality_2320,432,OAX,Santa María Temaxcalapa
+stps_municipality_2321,433,OAX,Santa María Temaxcaltepec
+stps_municipality_2322,434,OAX,Santa María Teopoxco
+stps_municipality_2323,435,OAX,Santa María Tepantlali
+stps_municipality_2324,436,OAX,Santa María Texcatitlán
+stps_municipality_2325,437,OAX,Santa María Tlahuitoltepec
+stps_municipality_2326,438,OAX,Santa María Tlalixtac
+stps_municipality_2327,439,OAX,Santa María Tonameca
+stps_municipality_2328,440,OAX,Santa María Totolapilla
+stps_municipality_2329,441,OAX,Santa María Xadani
+stps_municipality_2330,442,OAX,Santa María Yalina
+stps_municipality_2331,443,OAX,Santa María Yavesía
+stps_municipality_2332,444,OAX,Santa María Yolotepec
+stps_municipality_2333,445,OAX,Santa María Yosoyúa
+stps_municipality_2334,446,OAX,Santa María Yucuhiti
+stps_municipality_2335,447,OAX,Santa María Zacatepec
+stps_municipality_2336,448,OAX,Santa María Zaniza
+stps_municipality_2337,449,OAX,Santa María Zoquitlán
+stps_municipality_2338,450,OAX,Santiago Amoltepec
+stps_municipality_2339,451,OAX,Santiago Apoala
+stps_municipality_2340,452,OAX,Santiago Apóstol
+stps_municipality_2341,453,OAX,Santiago Astata
+stps_municipality_2342,454,OAX,Santiago Atitlán
+stps_municipality_2343,455,OAX,Santiago Ayuquililla
+stps_municipality_2344,456,OAX,Santiago Cacaloxtepec
+stps_municipality_2345,457,OAX,Santiago Camotlán
+stps_municipality_2346,458,OAX,Santiago Comaltepec
+stps_municipality_2347,459,OAX,Santiago Chazumba
+stps_municipality_2348,460,OAX,Santiago Choápam
+stps_municipality_2349,461,OAX,Santiago del Río
+stps_municipality_2350,462,OAX,Santiago Huajolotitlán
+stps_municipality_2351,463,OAX,Santiago Huauclilla
+stps_municipality_2352,464,OAX,Santiago Ihuitlán Plumas
+stps_municipality_2353,465,OAX,Santiago Ixcuintepec
+stps_municipality_2354,466,OAX,Santiago Ixtayutla
+stps_municipality_2355,467,OAX,Santiago Jamiltepec
+stps_municipality_2356,468,OAX,Santiago Jocotepec
+stps_municipality_2357,469,OAX,Santiago Juxtlahuaca
+stps_municipality_2358,470,OAX,Santiago Lachiguiri
+stps_municipality_2359,471,OAX,Santiago Lalopa
+stps_municipality_2360,472,OAX,Santiago Laollaga
+stps_municipality_2361,473,OAX,Santiago Laxopa
+stps_municipality_2362,474,OAX,Santiago Llano Grande
+stps_municipality_2363,475,OAX,Santiago Matatlán
+stps_municipality_2364,476,OAX,Santiago Miltepec
+stps_municipality_2365,477,OAX,Santiago Minas
+stps_municipality_2366,478,OAX,Santiago Nacaltepec
+stps_municipality_2367,479,OAX,Santiago Nejapilla
+stps_municipality_2368,480,OAX,Santiago Nundiche
+stps_municipality_2369,481,OAX,Santiago Nuyoó
+stps_municipality_2370,482,OAX,Santiago Pinotepa Nacional
+stps_municipality_2371,483,OAX,Santiago Suchilquitongo
+stps_municipality_2372,484,OAX,Santiago Tamazola
+stps_municipality_2373,485,OAX,Santiago Tapextla
+stps_municipality_2374,486,OAX,Villa Tejúpam de la Unión
+stps_municipality_2375,487,OAX,Santiago Tenango
+stps_municipality_2376,488,OAX,Santiago Tepetlapa
+stps_municipality_2377,489,OAX,Santiago Tetepec
+stps_municipality_2378,490,OAX,Santiago Texcalcingo
+stps_municipality_2379,491,OAX,Santiago Textitlán
+stps_municipality_2380,492,OAX,Santiago Tilantongo
+stps_municipality_2381,493,OAX,Santiago Tillo
+stps_municipality_2382,494,OAX,Santiago Tlazoyaltepec
+stps_municipality_2383,495,OAX,Santiago Xanica
+stps_municipality_2384,496,OAX,Santiago Xiacuí
+stps_municipality_2385,497,OAX,Santiago Yaitepec
+stps_municipality_2386,498,OAX,Santiago Yaveo
+stps_municipality_2387,499,OAX,Santiago Yolomécatl
+stps_municipality_2388,500,OAX,Santiago Yosondúa
+stps_municipality_2389,501,OAX,Santiago Yucuyachi
+stps_municipality_2390,502,OAX,Santiago Zacatepec
+stps_municipality_2391,503,OAX,Santiago Zoochila
+stps_municipality_2392,504,OAX,Nuevo Zoquiápam
+stps_municipality_2393,505,OAX,Santo Domingo Ingenio
+stps_municipality_2394,506,OAX,Santo Domingo Albarradas
+stps_municipality_2395,507,OAX,Santo Domingo Armenta
+stps_municipality_2396,508,OAX,Santo Domingo Chihuitán
+stps_municipality_2397,509,OAX,Santo Domingo de Morelos
+stps_municipality_2398,510,OAX,Santo Domingo Ixcatlán
+stps_municipality_2399,511,OAX,Santo Domingo Nuxaá
+stps_municipality_2400,512,OAX,Santo Domingo Ozolotepec
+stps_municipality_2401,513,OAX,Santo Domingo Petapa
+stps_municipality_2402,514,OAX,Santo Domingo Roayaga
+stps_municipality_2403,515,OAX,Santo Domingo Tehuantepec
+stps_municipality_2404,516,OAX,Santo Domingo Teojomulco
+stps_municipality_2405,517,OAX,Santo Domingo Tepuxtepec
+stps_municipality_2406,518,OAX,Santo Domingo Tlatayápam
+stps_municipality_2407,519,OAX,Santo Domingo Tomaltepec
+stps_municipality_2408,520,OAX,Santo Domingo Tonalá
+stps_municipality_2409,521,OAX,Santo Domingo Tonaltepec
+stps_municipality_2410,522,OAX,Santo Domingo Xagacía
+stps_municipality_2411,523,OAX,Santo Domingo Yanhuitlán
+stps_municipality_2412,524,OAX,Santo Domingo Yodohino
+stps_municipality_2413,525,OAX,Santo Domingo Zanatepec
+stps_municipality_2414,526,OAX,Santos Reyes Nopala
+stps_municipality_2415,527,OAX,Santos Reyes Pápalo
+stps_municipality_2416,528,OAX,Santos Reyes Tepejillo
+stps_municipality_2417,529,OAX,Santos Reyes Yucuná
+stps_municipality_2418,530,OAX,Santo Tomás Jalieza
+stps_municipality_2419,531,OAX,Santo Tomás Mazaltepec
+stps_municipality_2420,532,OAX,Santo Tomás Ocotepec
+stps_municipality_2421,533,OAX,Santo Tomás Tamazulapan
+stps_municipality_2422,534,OAX,San Vicente Coatlán
+stps_municipality_2423,535,OAX,San Vicente Lachixío
+stps_municipality_2424,536,OAX,San Vicente Nuñú
+stps_municipality_2425,537,OAX,Silacayoápam
+stps_municipality_2426,538,OAX,Sitio de Xitlapehua
+stps_municipality_2427,539,OAX,Soledad Etla
+stps_municipality_2428,540,OAX,Villa de Tamazulápam del Progreso
+stps_municipality_2429,541,OAX,Tanetze de Zaragoza
+stps_municipality_2430,542,OAX,Taniche
+stps_municipality_2431,543,OAX,Tataltepec de Valdés
+stps_municipality_2432,544,OAX,Teococuilco de Marcos Pérez
+stps_municipality_2433,545,OAX,Teotitlán de Flores Magón
+stps_municipality_2434,546,OAX,Teotitlán del Valle
+stps_municipality_2435,547,OAX,Teotongo
+stps_municipality_2436,548,OAX,Tepelmeme Villa de Morelos
+stps_municipality_2437,549,OAX,Tezoatlán de Segura y Luna
+stps_municipality_2438,550,OAX,San Jerónimo Tlacochahuaya
+stps_municipality_2439,551,OAX,Tlacolula de Matamoros
+stps_municipality_2440,552,OAX,Tlacotepec Plumas
+stps_municipality_2441,553,OAX,Tlalixtac de Cabrera
+stps_municipality_2442,554,OAX,Totontepec Villa de Morelos
+stps_municipality_2443,555,OAX,Trinidad Zaachila
+stps_municipality_2444,556,OAX,La Trinidad Vista Hermosa
+stps_municipality_2445,557,OAX,Unión Hidalgo
+stps_municipality_2446,558,OAX,Valerio Trujano
+stps_municipality_2447,559,OAX,San Juan Bautista Valle Nacional
+stps_municipality_2448,560,OAX,Villa Díaz Ordaz
+stps_municipality_2449,561,OAX,Yaxe
+stps_municipality_2450,562,OAX,Magdalena Yodocono de Porfirio Díaz
+stps_municipality_2451,563,OAX,Yogana
+stps_municipality_2452,564,OAX,Yutanduchi de Guerrero
+stps_municipality_2453,565,OAX,Villa de Zaachila
+stps_municipality_2454,566,OAX,San Mateo Yucutindoo
+stps_municipality_2455,567,OAX,Zapotitlán Lagunas
+stps_municipality_2456,568,OAX,Zapotitlán Palmas
+stps_municipality_2457,569,OAX,Santa Inés de Zaragoza
+stps_municipality_2458,570,OAX,Zimatlán de Álvarez

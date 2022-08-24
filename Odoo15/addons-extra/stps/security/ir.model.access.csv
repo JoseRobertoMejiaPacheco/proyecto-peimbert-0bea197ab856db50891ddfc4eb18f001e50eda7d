@@ -1,0 +1,9 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_stps_municipality,stps.municipality,model_stps_municipality,stps_user_access,1,1,1,1
+access_stps_state,stps.state,model_stps_state,stps_user_access,1,1,1,1
+access_stps_sector,stps.sector,model_stps_sector,stps_user_access,1,1,1,1
+access_stps_statistical_sector,stps.statistical_sector,model_stps_statistical_sector,stps_user_access,1,1,1,1
+
+
+
+

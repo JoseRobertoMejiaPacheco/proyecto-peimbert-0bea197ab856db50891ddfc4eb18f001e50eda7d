@@ -1,0 +1,23 @@
+<odoo>
+    <data>
+        <!-- STPS User Group -->
+
+        <record model="ir.module.category" id="stps_user_management">
+            <field name="name">STPS</field>
+            <field name="description">User access levels for Overtime module</field>
+            <field name="sequence">10</field>
+        </record>
+
+        <record id="stps_user_access" model="res.groups">
+            <field name="name">User</field>
+            <field name="category_id" ref="stps_user_management" />
+        </record>
+
+        <record id="stps_manager_access" model="res.groups">
+            <field name="name">Manager</field>
+            <field name="category_id" ref="stps_user_management"/>
+            <field name="implied_ids" eval="[(4, ref('stps_user_access'))]"/>
+        </record>
+
+    </data>
+</odoo>

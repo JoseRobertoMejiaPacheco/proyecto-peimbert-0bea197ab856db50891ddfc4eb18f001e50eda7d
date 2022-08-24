@@ -1,0 +1,27 @@
+{
+  "name": "stps",
+  "version": "1.0.0",
+  "description": "Api para conectar mongo con odoo 15 ce",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "StatisticalSector"
+  ],
+  "author": "callicoder",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.8"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "node-env-run": "^4.0.2"
+  }
+}

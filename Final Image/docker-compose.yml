@@ -1,0 +1,108 @@
+#Odoo 15 CE 
+version: '3.9'
+services:
+    odoo:
+        container_name: odoo
+        image: odoo:15.0
+        volumes:
+            - ./Odoo15CE/addons-extra:/mnt/extra-addons
+            - ./Odoo15CE/etc/odoo:/etc/odoo
+            - odoo-web-data:/var/lib/odoo
+        ports:
+            - "8069:8069"
+            - "8000:8000"
+        restart: always
+        depends_on:
+            - postgres
+            - stps_api_mongo
+        environment:
+            - MONGO_DB_IP=${MONGO_DB_IP}
+    postgres:
+        image: postgres:14
+        environment:
+            - POSTGRES_DB=postgres
+            - POSTGRES_PASSWORD=odoo
+            - POSTGRES_USER=odoo
+            - PGDATA=/var/lib/postgresql/data/pgdata
+        volumes:
+            - odoo-db-data:/var/lib/postgresql/data/pgdata        
+
+#Mongo DB Cluster
+# MongoCluster/data/db
+    mongo1:
+      container_name: mongo1
+      image: mongo:4.4
+      volumes:
+        - mongo-db-1:/data/db
+        - ./MongoCluster/rs-init.sh:/scripts/rs-init.sh
+      networks:
+        - mongors-network
+      ports:
+        - 27021:27017
+      links:
+        - mongo2
+        - mongo3
+      restart: always
+      entrypoint: [ "/usr/bin/mongod", "--bind_ip_all", "--replSet", "dbrs" ]
+    mongo2:
+      container_name: mongo2
+      image: mongo:4.4
+      volumes:
+        - mongo-db-2:/data/db
+      networks:
+        - mongors-network
+      ports:
+        - 27022:27017
+      restart: always
+      entrypoint: [ "/usr/bin/mongod", "--bind_ip_all", "--replSet", "dbrs" ]
+    mongo3:
+      container_name: mongo3
+      image: mongo:4.4
+      volumes:
+        - mongo-db-3:/data/db
+      networks:
+        - mongors-network
+      ports:
+        - 27023:27017
+      restart: always
+      entrypoint: [ "/usr/bin/mongod", "--bind_ip_all", "--replSet", "dbrs" ]
+
+    stps_api_mongo1:
+      container_name: stps_api_mongo1
+      build: ./Final Image/ApiMongoDB
+      ports:
+        - "3000:3000"
+      volumes:
+        - stps-api-data1:/app
+
+    stps_api_mongo2:
+      container_name: stps_api_mongo2
+      build: ./Final Image/ApiMongoDB
+      ports:
+        - "3001:3000"
+      volumes:
+        - stps-api-data2:/app
+
+    stps_api_mongo3:
+      container_name: stps_api_mongo3
+      build: ./Final Image/ApiMongoDB
+      ports:
+        - "3002:3000"
+      volumes:
+        - stps-api-data3:/app
+
+
+networks:
+  mongors-network:
+    driver: bridge
+
+volumes:
+    odoo-web-data:
+    odoo-db-data:
+    mongo-db-1:
+    mongo-db-2:
+    mongo-db-3:
+    stps-api-data1:
+    stps-api-data2:
+    stps-api-data3:
+
