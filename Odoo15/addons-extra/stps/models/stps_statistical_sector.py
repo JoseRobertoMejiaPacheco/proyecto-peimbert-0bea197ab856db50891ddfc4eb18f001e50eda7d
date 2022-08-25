@@ -43,7 +43,7 @@ class stps(models.Model):
     @api.model
     def create(self, values):
         # Add code here
-        URL = 'http://192.168.1.100:3000/statisticalsector'
+        URL = 'http://api.app.4gingenieria.com/statisticalsector'
         response = requests.post(URL, json=values)
         if response.status_code in [200]:
             response_dict = json.loads(response.text)
@@ -54,7 +54,7 @@ class stps(models.Model):
                 "Error al registrar código de error %s" % (response.status_code))
 
     def write(self, values):
-        URL = 'http://192.168.1.100:3000/statisticalsector/%s' % (self._id)
+        URL = 'http://api.app.4gingenieria.com/statisticalsector/%s' % (self._id)
         new_vals = {
             "year": self.year,
             "month": self.month,
@@ -76,7 +76,7 @@ class stps(models.Model):
     def unlink(self):
         
         for record in self:
-            URL = 'http://192.168.1.100:3000/statisticalsector/%s' % (record._id)
+            URL = 'http://api.app.4gingenieria.com/statisticalsector/%s' % (record._id)
             response = requests.delete(URL)
             if response.status_code in [200]:
                 super(stps, record).unlink()
@@ -89,7 +89,7 @@ class stps(models.Model):
 
     def copy(self, default=None):
         default = dict(default or {})
-        URL = 'http://192.168.1.100:3000/statisticalsector'
+        URL = 'http://api.app.4gingenieria.com/statisticalsector'
         default.update( {
             "year": self.year,
             "month": self.month,
