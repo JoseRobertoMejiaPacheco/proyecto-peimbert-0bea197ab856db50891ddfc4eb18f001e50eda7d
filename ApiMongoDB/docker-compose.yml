@@ -9,6 +9,7 @@ services:
       volumes:
         - stps-api-data1:/app
 
+            
     stps_api_mongo2:
       container_name: stps_api_mongo2
       build: ./
@@ -16,6 +17,7 @@ services:
         - "3001:3000"
       volumes:
         - stps-api-data2:/app
+    
 
     stps_api_mongo3:
       container_name: stps_api_mongo3
