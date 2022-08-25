@@ -1,4 +1,0 @@
-Para ver el funcionamiento a nivel local agregar al /etc/hosts/
-192.168.70.10   site3.localhost.com
-192.168.70.10   site2.localhost.com
-192.168.70.10   site1.localhost.com
