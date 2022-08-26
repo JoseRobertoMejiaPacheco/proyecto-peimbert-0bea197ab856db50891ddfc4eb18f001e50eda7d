@@ -19,7 +19,7 @@ resource "google_compute_firewall" "webserverrule" {
   network = "default"
   allow {
     protocol = "tcp"
-    ports    = ["80","443"]
+    ports    = ["80", "443", "5601","9200", "27017", "27018", "27019"]
   }
   source_ranges = ["0.0.0.0/0"] # Not So Secure. Limit the Source Range
   target_tags   = ["webserver"]
@@ -33,15 +33,28 @@ resource "google_compute_address" "static" {
   depends_on = [ google_compute_firewall.firewall ]
 }
 
+resource "google_compute_disk" "default" {
+  name  = "test-disk"
+  type  = "pd-ssd"
+  zone  = "${var.region}-a"
+  size = 70
+  labels = {
+    environment = "dev"
+  }
+  physical_block_size_bytes = 4096
+}
+
 resource "google_compute_instance" "stpsinstance" {
   name         = "stps-instance"
-  machine_type = "e2-medium"
+  machine_type = "e2-highmem-2"
   zone         = "${var.region}-a"
   tags         = ["externalssh","webserver"]
+  allow_stopping_for_update = true
 
   boot_disk {
     initialize_params {
       image = "ubuntu-os-cloud/ubuntu-2004-lts"
+      size = 70
     }
   }
 
